@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest_scripts>
+    <!--
+            [BEGIN] SUMMARY
+                    18700 [TODO] [Group] Prison Break-In
+                    18701 [XML] [Group] Seismoracle
+                    18702 [XML] [Group] To Save the Surface
+                    18703 [TODO] Egg on Your Face
+                    18704 [XML] [Group] Freedom to Kill
+                    18705 [XML] [Group] Countdown to Extinction
+                    18706 [TODO] Intricacies of Fate
+                    18707 [XML] [Group] Pill For What Ails Ya
+                    18708 [TODO] Sealed With the Truth
+                    18709 [SCRIPT] Reaching Out to the Past
+                    18710 [SCRIPT] Tipping the Scales
+                    18711 [XML] [Group] Eye of the Sword
+                    18712 [SCRIPT] The Enchanted Sword
+                    18713 [XML] [Group] Eye of the Dagger
+                    18714 [SCRIPT] The Enchanted Dagger
+                    18715 [XML] [Group] Eye of the Mace
+                    18716 [SCRIPT] The Enchanted Mace
+                    18717 [XML] [Group] Eye of the Orb
+                    18718 [SCRIPT] The Enchanted Orb
+                    18719 [XML] [Group] Eye of the Spellbook
+                    18720 [SCRIPT] The Enchanted Spellbook
+                    18721 [XML] [Group] Eye of the Greatsword
+                    18722 [SCRIPT] The Enchanted Greatsword
+                    18723 [XML] [Group] Eye of the Polearm
+                    18724 [SCRIPT] The Enchanted Polearm
+                    18725 [XML] [Group] Eye of the Staff
+                    18726 [SCRIPT] The Enchanted Staff
+                    18727 [XML] [Group] Eye of the Bow
+                    18728 [SCRIPT] The Enchanted Bow
+                    28700 [TODO] [Group] Raksang: the Prison of Death
+                    28703 [TODO] Hatching a Plan
+                    28706 [TODO] A Glimpse of Fate
+                    28707 [TODO] [Group] Miracle Drug?
+                    28708 [TODO] Hard Evidence
+                    28709 [SCRIPT] Maduka's Message
+                    28711 [TODO] [Group] The Sword and the Eye
+                    28712 [TODO] The Iris Sword
+                    28713 [TODO] [Group] The Dagger and the Eye
+                    28714 [TODO] The Iris Dagger
+                    28715 [TODO] [Group] The Mace and the Eye
+                    28716 [TODO] The Iris Mace
+                    28717 [TODO] [Group] The Orb and the Eye
+                    28718 [TODO] The Iris Orb
+                    28719 [TODO] [Group] The Spellbook and the Eye
+                    28720 [TODO] The Iris Spellbook
+                    28721 [TODO] [Group] The Greatsword and the Eye
+                    28722 [TODO] The Iris Greatsword
+                    28723 [TODO] [Group] The Polearm and the Eye
+                    28724 [TODO] The Iris Polearm
+                    28725 [TODO] [Group] The Staff and the Eye
+                    28726 [TODO] The Iris Staff
+                    28727 [TODO] [Group] The Bow and the Eye
+                    28728 [TODO] The Iris Bow
+            [END] SUMMARY
+    -->
+    <!-- COLLECTING QUESTS -->
+    <item_collecting id="18707" start_npc_ids="799532"/>
+    <item_collecting id="18711" start_npc_ids="799531" end_npc_ids="799433"/>
+    <item_collecting id="18713" start_npc_ids="799531" end_npc_ids="799433"/>
+    <item_collecting id="18715" start_npc_ids="799531" end_npc_ids="799433"/>
+    <item_collecting id="18717" start_npc_ids="799531" end_npc_ids="799433"/>
+    <item_collecting id="18719" start_npc_ids="799531" end_npc_ids="799433"/>
+    <item_collecting id="18721" start_npc_ids="799531" end_npc_ids="799433"/>
+    <item_collecting id="18723" start_npc_ids="799531" end_npc_ids="799433"/>
+    <item_collecting id="18725" start_npc_ids="799531" end_npc_ids="799433"/>
+    <item_collecting id="18727" start_npc_ids="799531" end_npc_ids="799433"/>
+    <!-- HUNTING QUESTS -->
+    <monster_hunt id="18701" start_npc_ids="799434">
+        <monster var="0" npc_ids="217421 217422" end_var="20"/>
+    </monster_hunt>
+    <monster_hunt id="18702" start_npc_ids="799434">
+        <monster var="0" npc_ids="217421 217422" end_var="20"/>
+    </monster_hunt>
+    <monster_hunt id="18704" start_npc_ids="799433">
+        <monster var="0" npc_ids="217415" end_var="20"/>
+    </monster_hunt>
+    <monster_hunt id="18705" start_npc_ids="799433">
+        <monster var="0" npc_ids="217415" end_var="20"/>
+    </monster_hunt>
+</quest_scripts>

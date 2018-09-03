@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone mapid="301180000" name="STR_ZONE_NAME_IDLDF5RE_03_L_301180000" area_type="POLYGON" zone_type="SUB" priority="17">
+		<points bottom="27.6515961" top="627.6516">
+			<point x="123.8813" y="124.6890" />
+			<point x="389.6830" y="120.3892" />
+			<point x="390.4647" y="390.0997" />
+			<point x="123.8813" y="385.4091" />
+		</points>
+	</zone>
+	<zone mapid="301180000" name="IDLDF5RE_03_ITEMUSEAREA_ALL_31" area_type="POLYGON" zone_type="ITEM_USE">
+		<points bottom="26.6526489" top="626.652649">
+			<point x="108.0366" y="115.1715" />
+			<point x="404.2846" y="109.0778" />
+			<point x="408.0346" y="405.3258" />
+			<point x="107.0991" y="405.3258" />
+		</points>
+	</zone>
+	<zone mapid="301180000" name="IDLDF5RE_03_ITEMUSEAREA_ALL_LOSE_31" area_type="POLYGON" zone_type="ITEM_USE">
+		<points bottom="24.3239059" top="624.3239">
+			<point x="108.9718" y="110.9544" />
+			<point x="405.2198" y="104.8607" />
+			<point x="408.9698" y="401.1086" />
+			<point x="108.0343" y="401.1086" />
+		</points>
+	</zone>
+	<zone mapid="301180000" name="IDLDF5RE_03_FLYING_ZONE_31" area_type="POLYGON" zone_type="FLY">
+		<points bottom="19.8355255" top="619.8355">
+			<point x="35.4213" y="493.6683" />
+			<point x="483.2257" y="486.4905" />
+			<point x="491.0349" y="5.6100" />
+			<point x="32.1736" y="13.4543" />
+		</points>
+	</zone>
+</zones>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+    <zone name="SZ_IDArena_Team01_S3" priority="17" mapid="300570000" area_type="POLYGON" zone_type="SUB" flags="6">
+    <points bottom="230.181122" top="830.181122">
+			<point x="84.107422" y="858.967041" />
+			<point x="811.468933" y="864.335388" />
+			<point x="817.735413" y="1393.005005" />
+			<point x="83.237000" y="1393.921387" />
+     </points>
+    </zone>
+    <zone name="SZ_IDArena_Team01_S1" priority="17" mapid="300570000" area_type="POLYGON" zone_type="SUB" flags="6">
+    <points bottom="227.582977" top="827.582977">
+			<point x="1233.153564" y="1506.402222" />
+			<point x="2035.277344" y="1497.508057" />
+			<point x="2033.163696" y="1995.590210" />
+			<point x="1245.921143" y="1992.667358" />
+     </points>
+    </zone>
+    <zone name="SZ_IDArena_Team01_S4" priority="17" mapid="300570000" area_type="POLYGON" zone_type="SUB" flags="6">
+    <points bottom="155.642670" top="955.642670">
+			<point x="1183.032227" y="-34.306236" />
+			<point x="1990.745972" y="-19.566185" />
+			<point x="1959.538940" y="662.137390" />
+			<point x="1144.657715" y="661.200745" />
+     </points>
+    </zone>
+    <zone name="SZ_IDArena_Team01_S5" priority="17" mapid="300570000" area_type="POLYGON" zone_type="SUB" flags="6">
+    <points bottom="157.978134" top="857.978134">
+			<point x="1137.784302" y="774.485962" />
+			<point x="2072.911621" y="771.420044" />
+			<point x="2075.977539" y="1445.937988" />
+			<point x="1134.718140" y="1427.541992" />
+     </points>
+    </zone>
+    <zone name="SZ_IDArena_Team01_S2" priority="17" mapid="300570000" area_type="POLYGON" zone_type="SUB" flags="6">
+    <points bottom="35.530533" top="835.530533">
+			<point x="88.281006" y="1564.393188" />
+			<point x="1008.445007" y="1557.845825" />
+			<point x="1008.961182" y="2033.756958" />
+			<point x="88.811584" y="2035.494507" />
+     </points>
+    </zone>
+    <zone name="SZ_IDArena_Team01_S6" priority="17" mapid="300570000" area_type="POLYGON" zone_type="SUB" flags="6">
+    <points bottom="16.500000" top="616.500000">
+			<point x="15.807068" y="-9.011040" />
+			<point x="954.309204" y="-0.346245" />
+			<point x="918.618958" y="673.755920" />
+			<point x="16.637421" y="659.588440" />
+     </points>
+    </zone>
+</zones>

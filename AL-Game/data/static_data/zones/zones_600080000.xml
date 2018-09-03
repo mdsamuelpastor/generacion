@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone mapid="600080000" name="STR_ZONE_NAME_IDIU_600080000" area_type="POLYGON" zone_type="SUB" priority="16">
+		<points bottom="542.521" top="642.521">
+			<point x="1658.2488" y="1677.0750" />
+			<point x="1334.1305" y="1679.9521" />
+			<point x="1334.0820" y="1349.9438" />
+			<point x="1657.7864" y="1348.8907" />
+		</points>
+	</zone>
+	<zone mapid="600080000" name="LIMITAREAIDIU_DESIGN2_600080000" area_type="POLYGON" zone_type="LIMIT" priority="16">
+		<points bottom="532" top="632">
+			<point x="1344.8359" y="1356.7966" />
+			<point x="1653.9684" y="1357.8481" />
+			<point x="1653.4426" y="1685.3812" />
+			<point x="1344.8359" y="1684.8555" />
+		</points>
+	</zone>
+</zones>

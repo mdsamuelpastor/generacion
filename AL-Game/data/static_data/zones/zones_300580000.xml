@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+	<zone mapid="300580000" name="IDLDF5Re_02_Sub" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="123.881348" y="124.688950"/>
+            <point x="389.682983" y="120.389236"/>
+            <point x="390.464722" y="390.099731"/>
+            <point x="123.881348" y="385.409119"/>
+		</points>
+	</zone>
+	<zone mapid="300580000" name="Stage_IDLDF5Re_03" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="105.518433" y="135.740585"/>
+            <point x="400.330200" y="130.697159"/>
+            <point x="398.954712" y="375.533020"/>
+            <point x="105.518463" y="373.240540"/>
+		</points>
+	</zone>
+</zones>

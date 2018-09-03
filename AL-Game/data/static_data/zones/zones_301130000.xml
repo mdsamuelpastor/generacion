@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_BOSS_301130000" area_type="POLYGON" zone_type="SUB" priority="16">
+		<points bottom="62.6210556" top="512.621033">
+			<point x="615.6887" y="816.8465" />
+			<point x="615.6887" y="975.5947" />
+			<point x="789.7073" y="975.5948" />
+			<point x="790.2219" y="816.8935" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_ALL_301130000" area_type="POLYGON" zone_type="SUB" priority="16">
+		<points bottom="48.2617645" top="548.2618">
+			<point x="45.1743" y="33.6227" />
+			<point x="43.6215" y="721.5181" />
+			<point x="745.4923" y="721.5182" />
+			<point x="743.9395" y="33.6227" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_B_02_301130000" area_type="POLYGON" zone_type="SUB" priority="13">
+		<points bottom="186.3041" top="201.3041">
+			<point x="612.2812" y="499.5329" />
+			<point x="607.3467" y="502.0887" />
+			<point x="604.7538" y="497.7543" />
+			<point x="597.1327" y="502.0602" />
+			<point x="599.4670" y="506.5205" />
+			<point x="594.6704" y="508.9598" />
+			<point x="604.7528" y="527.6211" />
+			<point x="622.1546" y="518.1919" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_B_06_301130000" area_type="POLYGON" zone_type="SUB" priority="11">
+		<points bottom="181.225" top="631.225">
+			<point x="460.7660" y="353.8962" />
+			<point x="498.7110" y="353.8962" />
+			<point x="498.7110" y="317.7139" />
+			<point x="460.7660" y="317.7139" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_B_02_2_301130000" area_type="POLYGON" zone_type="SUB" priority="13">
+		<points bottom="185.603012" top="200.603012">
+			<point x="594.5969" y="462.2377" />
+			<point x="598.8851" y="464.6194" />
+			<point x="596.3160" y="470.2004" />
+			<point x="604.4638" y="474.1890" />
+			<point x="607.1360" y="469.1086" />
+			<point x="611.9962" y="471.7831" />
+			<point x="621.6395" y="453.5506" />
+			<point x="603.7998" y="444.0584" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_B_03_301130000" area_type="POLYGON" zone_type="SUB" priority="13">
+		<points bottom="42.88736" top="492.88736">
+			<point x="462.0887" y="422.8689" />
+			<point x="500.1890" y="422.8864" />
+			<point x="500.1702" y="419.3557" />
+			<point x="552.7695" y="419.4509" />
+			<point x="552.8206" y="500.8202" />
+			<point x="462.3617" y="500.8443" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_BOSS_28_301130000" area_type="POLYGON" zone_type="SUB" priority="16">
+		<points bottom="62.6210556" top="512.621033">
+			<point x="815.6196" y="816.8466" />
+			<point x="815.6196" y="975.5948" />
+			<point x="989.6382" y="975.5948" />
+			<point x="990.1527" y="816.8936" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_C_02_301130000" area_type="POLYGON" zone_type="SUB" priority="9">
+		<points bottom="41.4494858" top="491.4495">
+			<point x="435.7827" y="311.9508" />
+			<point x="435.8892" y="274.3816" />
+			<point x="357.1646" y="274.0269" />
+			<point x="357.0939" y="264.0961" />
+			<point x="322.9607" y="264.0302" />
+			<point x="322.9685" y="322.9518" />
+			<point x="356.2429" y="323.0946" />
+			<point x="356.2818" y="311.9279" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_BOSS_29_301130000" area_type="POLYGON" zone_type="SUB" priority="16">
+		<points bottom="62.6210556" top="512.621033">
+			<point x="224.0875" y="815.8173" />
+			<point x="224.0875" y="974.5655" />
+			<point x="398.1061" y="974.5656" />
+			<point x="398.6207" y="815.8643" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_B_01_301130000" area_type="POLYGON" zone_type="SUB" priority="14">
+		<points bottom="45.49127" top="495.491272">
+			<point x="575.8214" y="445.4009" />
+			<point x="564.8088" y="451.4316" />
+			<point x="551.1749" y="464.5418" />
+			<point x="551.1749" y="512.0008" />
+			<point x="563.2355" y="521.9646" />
+			<point x="577.6568" y="531.4039" />
+			<point x="593.3890" y="532.4528" />
+			<point x="601.5174" y="530.6173" />
+			<point x="608.8591" y="541.1055" />
+			<point x="634.5551" y="524.3244" />
+			<point x="627.2134" y="514.6229" />
+			<point x="630.6221" y="507.0189" />
+			<point x="666.0197" y="507.2811" />
+			<point x="665.2330" y="462.7064" />
+			<point x="649.7410" y="462.6142" />
+			<point x="650.1484" y="446.3495" />
+			<point x="631.8370" y="446.4734" />
+			<point x="610.2739" y="435.8919" />
+			<point x="598.0740" y="435.4125" />
+			<point x="582.9929" y="438.7679" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_C_01_301130000" area_type="POLYGON" zone_type="SUB" priority="10">
+		<points bottom="42.52054" top="492.520538">
+			<point x="457.6240" y="318.3293" />
+			<point x="508.6749" y="318.3293" />
+			<point x="514.9846" y="312.0196" />
+			<point x="520.7206" y="298.9701" />
+			<point x="518.2828" y="265.8444" />
+			<point x="479.5644" y="244.4775" />
+			<point x="434.3864" y="261.8560" />
+			<point x="434.3729" y="313.0109" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_C_04_3_301130000" area_type="POLYGON" zone_type="SUB" priority="7">
+		<points bottom="65.1209946" top="515.121">
+			<point x="330.8192" y="400.9620" />
+			<point x="330.8192" y="377.3012" />
+			<point x="305.1190" y="377.2866" />
+			<point x="305.2080" y="383.5968" />
+			<point x="300.0717" y="383.5968" />
+			<point x="300.0717" y="393.7037" />
+			<point x="305.3737" y="393.7037" />
+			<point x="305.4312" y="401.0527" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_A_01_301130000" area_type="POLYGON" zone_type="SUB" priority="15">
+		<points bottom="33.85897" top="483.858978">
+			<point x="578.3021" y="229.8465" />
+			<point x="714.8352" y="230.6357" />
+			<point x="714.8434" y="406.5549" />
+			<point x="660.2335" y="406.6544" />
+			<point x="660.2334" y="429.0625" />
+			<point x="651.3140" y="429.1060" />
+			<point x="651.1492" y="447.4051" />
+			<point x="629.8214" y="447.3454" />
+			<point x="629.9723" y="429.3777" />
+			<point x="619.6671" y="429.4489" />
+			<point x="619.6671" y="405.1090" />
+			<point x="578.3186" y="405.0013" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_C_04_301130000" area_type="POLYGON" zone_type="SUB" priority="7">
+		<points bottom="65.1209946" top="515.121">
+			<point x="249.8095" y="350.6848" />
+			<point x="249.8095" y="376.2401" />
+			<point x="275.5096" y="376.2548" />
+			<point x="275.4207" y="369.1867" />
+			<point x="280.5569" y="369.1867" />
+			<point x="280.5569" y="359.0799" />
+			<point x="275.2550" y="359.0799" />
+			<point x="275.1974" y="350.5942" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_B_04_301130000" area_type="POLYGON" zone_type="SUB" priority="12">
+		<points bottom="48.22" top="498.22">
+			<point x="470.3761" y="498.3179" />
+			<point x="470.4223" y="480.1565" />
+			<point x="463.7967" y="480.1565" />
+			<point x="463.7967" y="424.2526" />
+			<point x="410.9149" y="424.4845" />
+			<point x="411.1669" y="568.4729" />
+			<point x="540.0465" y="568.4515" />
+			<point x="540.0465" y="498.2387" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_C_03_301130000" area_type="POLYGON" zone_type="SUB" priority="8">
+		<points bottom="38.1051254" top="488.105133">
+			<point x="327.3714" y="306.8749" />
+			<point x="327.3576" y="276.5072" />
+			<point x="301.5499" y="276.4304" />
+			<point x="279.5904" y="291.9990" />
+			<point x="279.5258" y="302.0820" />
+			<point x="261.4438" y="302.0175" />
+			<point x="261.4438" y="353.3911" />
+			<point x="320.7928" y="353.5039" />
+			<point x="320.8091" y="306.8538" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_A_02_301130000" area_type="POLYGON" zone_type="SUB" priority="14">
+		<points bottom="-85.59613" top="364.40387">
+			<point x="586.2130" y="335.9482" />
+			<point x="586.2130" y="374.2614" />
+			<point x="616.8635" y="374.2614" />
+			<point x="616.8635" y="335.9482" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_C_05_301130000" area_type="POLYGON" zone_type="SUB" priority="15">
+		<points bottom="81.8406" top="531.8406">
+			<point x="136.0440" y="402.9605" />
+			<point x="122.5785" y="411.5415" />
+			<point x="117.0339" y="430.0235" />
+			<point x="121.1263" y="446.7894" />
+			<point x="134.7238" y="458.2747" />
+			<point x="150.8296" y="458.2747" />
+			<point x="162.9750" y="451.9380" />
+			<point x="166.5394" y="442.3009" />
+			<point x="166.5394" y="418.2742" />
+			<point x="162.3149" y="406.9210" />
+			<point x="149.3916" y="402.4781" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_BOSS_30_301130000" area_type="POLYGON" zone_type="SUB" priority="16">
+		<points bottom="62.6210556" top="512.621033">
+			<point x="420.2007" y="815.3655" />
+			<point x="420.2007" y="974.1138" />
+			<point x="594.2194" y="974.1138" />
+			<point x="594.7339" y="815.4125" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_B_05_301130000" area_type="POLYGON" zone_type="SUB" priority="12">
+		<points bottom="48.1487732" top="498.148773">
+			<point x="465.4004" y="348.8615" />
+			<point x="465.4004" y="369.5674" />
+			<point x="448.5025" y="369.5674" />
+			<point x="448.5025" y="421.9270" />
+			<point x="471.5883" y="421.9270" />
+			<point x="471.5883" y="427.5200" />
+			<point x="489.6762" y="427.6390" />
+			<point x="489.6762" y="420.6180" />
+			<point x="509.5491" y="420.6180" />
+			<point x="509.5491" y="348.7425" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_C_04_2_301130000" area_type="POLYGON" zone_type="SUB" priority="7">
+		<points bottom="65.1209946" top="515.121">
+			<point x="330.6783" y="376.5727" />
+			<point x="330.6783" y="352.9119" />
+			<point x="304.9782" y="352.8973" />
+			<point x="305.0671" y="359.2075" />
+			<point x="299.9309" y="359.2075" />
+			<point x="299.9309" y="369.3144" />
+			<point x="305.2328" y="369.3144" />
+			<point x="305.2904" y="376.6634" />
+		</points>
+	</zone>
+	<zone mapid="301130000" name="STR_IDVRITRA_BASE_SZ_BOSS_31_301130000" area_type="POLYGON" zone_type="SUB" priority="16">
+		<points bottom="62.6210556" top="512.621033">
+			<point x="24.4923" y="816.7101" />
+			<point x="24.4923" y="975.4583" />
+			<point x="198.5109" y="975.4584" />
+			<point x="199.0255" y="816.7571" />
+		</points>
+	</zone>
+</zones>

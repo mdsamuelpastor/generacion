@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+	
+    <!-- [Event] Heat Of High Summer I -->
+    <report_to start_npc_ids="799707" end_npc_ids="799705" id="50000"/>
+    <!-- [Event] Heat Of High Summer II -->
+    <report_to start_npc_ids="799706" end_npc_ids="799705" id="50001"/>
+    <!-- [Event] Heat Of High Summer III -->
+    <report_to start_npc_ids="799795" end_npc_ids="799793" id="51000"/>
+    <!-- Message From The Daemons -->
+    <report_to start_npc_ids="799794" end_npc_ids="799793" id="51001"/>
+	
+	
+    <!-- [Event] The Shulack Sugarcrooks -->
+    <monster_hunt start_npc_ids="799767" id="80010">
+        <monster var="0" npc_ids="217161" end_var="1"/>
+    </monster_hunt>
+    <!-- [Event] Pumpkin King Continues To Descend! -->
+    <monster_hunt start_npc_ids="799767" id="80011">
+        <monster var="0" npc_ids="217161" end_var="1"/>
+    </monster_hunt>
+    <!-- [Event] The Pumpkin King -->
+    <monster_hunt start_npc_ids="799788" id="80013">
+        <monster var="0" npc_ids="217161" end_var="1"/>
+    </monster_hunt>
+    <!-- [Event] The Desperate Pumpkin King -->
+    <monster_hunt start_npc_ids="799788" id="80014">
+        <monster var="0" npc_ids="217161" end_var="1"/>
+    </monster_hunt>
+	
+    <!-- [Event] Information Dealing -->
+    <report_to start_npc_ids="205475" end_npc_ids="205474" item_id="164002028" id="80059"/>
+    <!-- [Event] Confidentiel -->
+    <report_to start_npc_ids="205474" end_npc_ids="205475" item_id="164002027" id="80065"/>
+    <!-- [Event] Witch White Sparks? -->
+    <item_collecting start_npc_ids="799763" id="80102"/>
+    <!-- [Event] Witch Blue Sparks ? -->
+    <item_collecting start_npc_ids="799763" id="80103"/>
+    <!-- [Event] Witch Yellow Sparks ? -->
+    <item_collecting start_npc_ids="799763" id="80104"/>
+    <!-- [Event] Witch Red Sparks ? -->
+    <item_collecting start_npc_ids="799763" id="80105"/>
+    <!-- [Event] Pumpkin Whites -->
+    <item_collecting start_npc_ids="799763" id="80106"/>
+    <!-- [Event] Pumpkin Blues -->
+    <item_collecting start_npc_ids="799763" id="80107"/>
+    <!-- [Event] Pumpkin Yellows -->
+    <item_collecting start_npc_ids="799763" id="80108"/>
+    <!-- [Event] Pumpkin Red's -->
+    <item_collecting start_npc_ids="799763" id="80109"/>
+    <!-- [Event] What Witch, Where ? -->
+    <item_collecting start_npc_ids="799763" id="80111"/>
+    <!-- [Event] Leafy Reds -->
+    <item_collecting start_npc_ids="799763" id="80114"/>
+    <!-- [Event] Recycling Decorations -->
+    <item_collecting start_npc_ids="799763" id="80115"/>
+    <!-- [Event] March, March, March -->
+    <item_collecting start_npc_ids="799763" id="80118"/>
+    <!-- [Event] Parade Roll Call -->
+    <item_collecting start_npc_ids="799763" id="80119"/>
+    <!-- [Event] Stunned And Awed -->
+    <item_collecting start_npc_ids="799763" id="80120"/>
+    <!-- [Event] Chitter-Chitter Blingbling -->
+    <item_collecting start_npc_ids="799763" id="80121"/>
+    <!-- [Event] Ch-Leaf-Ly Potcrabs -->
+    <item_collecting start_npc_ids="799763" id="80122"/>
+    <!-- [Event] Absolutely Stunning -->
+    <item_collecting start_npc_ids="799763" id="80123"/>
+    <!-- [Event] Team Blingbling -->
+    <item_collecting start_npc_ids="799763" id="80124"/>
+    <!-- [Event] Parade Volunteering -->
+    <item_collecting start_npc_ids="799763" id="80125"/>
+    <!-- [Event] How About Zugog ? -->
+    <item_collecting start_npc_ids="799763" id="80126"/>
+    <!-- [Event] Honor's Marching On -->
+    <item_collecting start_npc_ids="799763" id="80127"/>
+    <!-- [Event] On A Full Stomach -->
+    <item_collecting start_npc_ids="799763" id="80129"/>
+    <!-- [Event] Shadowy Recruitment -->
+    <item_collecting start_npc_ids="799763" id="80130"/>
+    <!-- [Event] Information Exchange -->
+    <item_collecting start_npc_ids="799763" id="80131"/>
+    <!-- [Event] Drawn Into The Game -->
+    <item_collecting start_npc_ids="799763" id="80132"/>
+    <!-- [Event] Making Contact -->
+    <item_collecting start_npc_ids="799763" id="80133"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80137"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80139"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80141"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80143"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80145"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80147"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80149"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80158"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80159"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80160"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80161"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80162"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80163"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80164"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80165"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80166"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80167"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80168"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80169"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80170"/>
+    <!-- [Event] -->
+    <item_collecting start_npc_ids="799763" id="80171"/>
+</quest_scripts>

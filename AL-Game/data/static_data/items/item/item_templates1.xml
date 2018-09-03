@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item_templates>
+    <item_template id="100001405" name="world cash Gulare's Sword" level="60" mask="7240" category="SWORD" weapon_type="SWORD_1H" max_stack_count="1" item_type="NORMAL" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" restrict_max="63,63,63,63,63,63,63,63,63,63,63,63" desc="1604073" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="508" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="142" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="35" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="2" attack_range="4000" magical_accuracy="331" parry="1014" physical_accuracy="976" physical_critical="50" attack_speed="1400" max_damage="225" min_damage="183"/>
+    </item_template>
+    <item_template id="100001407" name="world cash Gulare's Sword" level="60" mask="7240" category="SWORD" weapon_type="SWORD_1H" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="4398480" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604051" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="585" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="155" bonus="true"/>
+            <add name="PARRY" value="134" bonus="true"/>
+            <add name="PHYSICAL_CRITICAL" value="77" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="45" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="SILENCE_RESISTANCE_PENETRATION" value="15" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="2" attack_range="1500" magical_accuracy="380" parry="1135" physical_accuracy="1107" physical_critical="50" attack_speed="1400" max_damage="255" min_damage="207"/>
+    </item_template>
+    <item_template id="100001411" name="world cash Gulare's Sword" level="60" mask="7240" category="SWORD" weapon_type="SWORD_1H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603947" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="42" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="70" bonus="true"/>
+            <add name="MAXHP" value="61" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="38" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="43" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="1" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="2" attack_range="1500" magical_accuracy="356" parry="1074" physical_accuracy="1041" physical_critical="50" attack_speed="1400" max_damage="256" min_damage="208"/>
+        <tradein_list>
+            <tradein_item id="100001337" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="16" burn_defend="6" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100001412" name="world cash Gulare's Sword" level="60" mask="7240" category="SWORD" weapon_type="SWORD_1H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603949" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="42" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="70" bonus="true"/>
+            <add name="MAXHP" value="61" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="38" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="43" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="1" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="2" attack_range="1500" magical_accuracy="356" parry="1074" physical_accuracy="1041" physical_critical="50" attack_speed="1400" max_damage="256" min_damage="208"/>
+        <tradein_list>
+            <tradein_item id="100001339" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="16" burn_defend="6" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100101082" name="Guardian Captain's Maul" level="60" mask="7240" category="MACE" weapon_type="MACE_1H" max_stack_count="1" item_type="NORMAL" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" restrict_max="63,63,63,63,63,63,63,63,63,63,63,63" desc="1604075" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="508" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="142" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="35" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="4000" boost_magical_skill="780" magical_accuracy="411" parry="964" physical_accuracy="1026" physical_critical="10" attack_speed="1500" max_damage="263" min_damage="175"/>
+    </item_template>
+    <item_template id="100101084" name="Guardian Captain's Maul" level="60" mask="7240" category="MACE" weapon_type="MACE_1H" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="4398480" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604053" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="585" bonus="true"/>
+            <add name="MAXMP" value="338" bonus="true"/>
+            <add name="MAGICAL_ACCURACY" value="63" bonus="true"/>
+            <add name="BOOST_MAGICAL_SKILL" value="96" bonus="true"/>
+            <rate name="BOOST_CASTING_TIME" value="9" bonus="true"/>
+            <add name="SILENCE_RESISTANCE_PENETRATION" value="15" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="1500" boost_magical_skill="915" magical_accuracy="460" parry="1135" physical_accuracy="1157" physical_critical="10" attack_speed="1500" max_damage="297" min_damage="198"/>
+    </item_template>
+    <item_template id="100101088" name="Guardian Captain's Maul" level="60" mask="7240" category="MACE" weapon_type="MACE_1H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603955" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="MAGICAL_ACCURACY" value="65" bonus="true"/>
+            <rate name="BOOST_CASTING_TIME" value="9" bonus="true"/>
+            <add name="MAGICAL_CRITICAL" value="25" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="70" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="53" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_CRITICAL" value="3" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="58" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="1" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="1500" boost_magical_skill="900" magical_accuracy="436" parry="1074" physical_accuracy="1091" physical_critical="10" attack_speed="1500" max_damage="299" min_damage="199"/>
+        <tradein_list>
+            <tradein_item id="100101020" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="16" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100101089" name="Guardian Captain's Maul" level="60" mask="7240" category="MACE" weapon_type="MACE_1H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603957" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="MAGICAL_ACCURACY" value="65" bonus="true"/>
+            <rate name="BOOST_CASTING_TIME" value="9" bonus="true"/>
+            <add name="MAGICAL_CRITICAL" value="25" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="70" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="53" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_CRITICAL" value="3" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="58" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="1" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="1500" boost_magical_skill="900" magical_accuracy="436" parry="1074" physical_accuracy="1091" physical_critical="10" attack_speed="1500" max_damage="299" min_damage="199"/>
+        <tradein_list>
+            <tradein_item id="100101022" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="16" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100201244" name="Guardian Captain's Poniard" level="60" mask="7240" category="DAGGER" weapon_type="DAGGER_1H" max_stack_count="1" item_type="NORMAL" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" restrict_max="63,63,63,63,63,63,63,63,63,63,63,63" desc="1604077" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PARRY" value="134" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="142" bonus="true"/>
+            <add name="MAXHP" value="508" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="35" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="4000" magical_accuracy="331" parry="924" physical_accuracy="976" physical_critical="100" attack_speed="1200" max_damage="184" min_damage="166"/>
+    </item_template>
+    <item_template id="100201246" name="Guardian Captain's Poniard" level="60" mask="7240" category="DAGGER" weapon_type="DAGGER_1H" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="4398480" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604055" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_CRITICAL" value="77" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PARRY" value="134" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="155" bonus="true"/>
+            <add name="MAXHP" value="585" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="45" bonus="true"/>
+            <add name="SILENCE_RESISTANCE_PENETRATION" value="15" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="1500" magical_accuracy="380" parry="1095" physical_accuracy="1107" physical_critical="100" attack_speed="1200" max_damage="208" min_damage="188"/>
+    </item_template>
+    <item_template id="100201250" name="Guardian Captain's Poniard" level="60" mask="7240" category="DAGGER" weapon_type="DAGGER_1H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603963" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_CRITICAL" value="72" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="70" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="23" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="7" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="26" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="1" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="1500" magical_accuracy="356" parry="1034" physical_accuracy="1041" physical_critical="100" attack_speed="1200" max_damage="209" min_damage="189"/>
+        <tradein_list>
+            <tradein_item id="100201182" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000147" count="182" ap="2164752"/>
+        <improve way="2" level="2" burn_attack="14" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100201251" name="Guardian Captain's Poniard" level="60" mask="7240" category="DAGGER" weapon_type="DAGGER_1H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603965" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_CRITICAL" value="72" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="BOOST_MAGICAL_SKILL" value="96" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="23" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="7" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="26" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="1" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="1500" magical_accuracy="356" parry="1034" physical_accuracy="1041" physical_critical="100" attack_speed="1200" max_damage="209" min_damage="189"/>
+        <tradein_list>
+            <tradein_item id="100201184" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="14" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100501092" name="Guardian Captain's Sphere" level="60" mask="7240" category="ORB" weapon_type="ORB_2H" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="4398480" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604057" attack_gap="0.0" attack_type="MAGICAL_FIRE" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="585" bonus="true"/>
+            <add name="MAXMP" value="1028" bonus="true"/>
+            <add name="MAGICAL_ACCURACY" value="58" bonus="true"/>
+            <rate name="BOOST_CASTING_TIME" value="19" bonus="true"/>
+            <add name="MAGICAL_CRITICAL" value="21" bonus="true"/>
+            <add name="BOOST_MAGICAL_SKILL" value="96" bonus="true"/>
+            <add name="SILENCE_RESISTANCE_PENETRATION" value="15" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="2500" boost_magical_skill="955" magical_accuracy="460" attack_speed="2200" max_damage="400" min_damage="326"/>
+    </item_template>
+    <item_template id="100501096" name="Guardian Captain's Sphere" level="60" mask="7240" category="ORB" weapon_type="ORB_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603907" attack_gap="0.0" attack_type="MAGICAL_FIRE" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="MAGICAL_ACCURACY" value="65" bonus="true"/>
+            <rate name="BOOST_CASTING_TIME" value="20" bonus="true"/>
+            <add name="MAGICAL_CRITICAL" value="25" bonus="true"/>
+            <add name="MAXMP" value="1028" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="53" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_CRITICAL" value="3" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="58" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="2500" boost_magical_skill="940" magical_accuracy="436" attack_speed="2200" max_damage="402" min_damage="328"/>
+        <tradein_list>
+            <tradein_item id="100501033" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="24" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100501097" name="Guardian Captain's Sphere" level="60" mask="7240" category="ORB" weapon_type="ORB_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603909" attack_gap="0.0" attack_type="MAGICAL_FIRE" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="MAGICAL_ACCURACY" value="65" bonus="true"/>
+            <rate name="BOOST_CASTING_TIME" value="20" bonus="true"/>
+            <add name="MAGICAL_CRITICAL" value="25" bonus="true"/>
+            <add name="MAXMP" value="1028" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="53" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_CRITICAL" value="3" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="58" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="2500" boost_magical_skill="940" magical_accuracy="436" attack_speed="2200" max_damage="402" min_damage="328"/>
+        <tradein_list>
+            <tradein_item id="100501035" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="24" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100601148" name="Guardian Captain's Hexbook" level="60" mask="7240" category="SPELLBOOK" weapon_type="BOOK_2H" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="4398480" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604059" attack_gap="0.0" attack_type="MAGICAL_WATER" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="585" bonus="true"/>
+            <add name="MAXHP" value="382" bonus="true"/>
+            <add name="MAGICAL_CRITICAL" value="21" bonus="true"/>
+            <add name="MAGICAL_ACCURACY" value="62" bonus="true"/>
+            <add name="BOOST_MAGICAL_SKILL" value="91" bonus="true"/>
+            <rate name="BOOST_CASTING_TIME" value="19" bonus="true"/>
+            <add name="SILENCE_RESISTANCE_PENETRATION" value="15" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="15000" boost_magical_skill="915" magical_accuracy="500" attack_speed="2200" max_damage="281" min_damage="253"/>
+    </item_template>
+    <item_template id="100601152" name="Guardian Captain's Hexbook" level="60" mask="7240" category="SPELLBOOK" weapon_type="BOOK_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603939" attack_gap="0.0" attack_type="MAGICAL_WATER" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="BOOST_MAGICAL_SKILL" value="92" bonus="true"/>
+            <rate name="BOOST_CASTING_TIME" value="20" bonus="true"/>
+            <add name="MAGICAL_CRITICAL" value="25" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="35" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_CRITICAL" value="3" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="38" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="17" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="15000" boost_magical_skill="900" magical_accuracy="476" attack_speed="2200" max_damage="283" min_damage="255"/>
+        <tradein_list>
+            <tradein_item id="100601086" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="24" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100601153" name="Guardian Captain's Hexbook" level="60" mask="7240" category="SPELLBOOK" weapon_type="BOOK_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603939" attack_gap="0.0" attack_type="MAGICAL_WATER" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="BOOST_MAGICAL_SKILL" value="92" bonus="true"/>
+            <rate name="BOOST_CASTING_TIME" value="20" bonus="true"/>
+            <add name="MAGICAL_CRITICAL" value="25" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="35" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_CRITICAL" value="3" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="38" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="17" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="15000" boost_magical_skill="900" magical_accuracy="476" attack_speed="2200" max_damage="283" min_damage="255"/>
+        <tradein_list>
+            <tradein_item id="100601088" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="24" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100901098" name="Guardian Commander's Broadsword" level="60" mask="7240" category="GREATSWORD" weapon_type="SWORD_2H" max_stack_count="1" item_type="NORMAL" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" restrict_max="63,63,63,63,63,63,63,63,63,63,63,63" desc="1604079" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="508" bonus="true"/>
+            <add name="PARRY" value="125" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="35" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="6000" magical_accuracy="331" parry="1044" physical_accuracy="1026" physical_critical="10" attack_speed="2400" max_damage="395" min_damage="375"/>
+    </item_template>
+    <item_template id="100901100" name="Guardian Commander's Broadsword" level="60" mask="7240" category="GREATSWORD" weapon_type="SWORD_2H" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="4398480" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604061" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="585" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="155" bonus="true"/>
+            <add name="PARRY" value="134" bonus="true"/>
+            <add name="PHYSICAL_CRITICAL" value="77" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="45" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-18" bonus="true"/>
+            <add name="SILENCE_RESISTANCE_PENETRATION" value="15" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="2000" magical_accuracy="380" parry="1215" physical_accuracy="1157" physical_critical="10" attack_speed="2400" max_damage="447" min_damage="424"/>
+    </item_template>
+    <item_template id="100901104" name="Guardian Commander's Broadsword" level="60" mask="7240" category="GREATSWORD" weapon_type="SWORD_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603899" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_CRITICAL" value="72" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="23" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="7" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="26" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="2000" magical_accuracy="356" parry="1154" physical_accuracy="1091" physical_critical="10" attack_speed="2400" max_damage="449" min_damage="426"/>
+        <tradein_list>
+            <tradein_item id="100901026" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000147" count="182" ap="2164752"/>
+        <improve way="2" level="2" burn_attack="26" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="100901105" name="Guardian Commander's Broadsword" level="60" mask="7240" category="GREATSWORD" weapon_type="SWORD_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603901" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_CRITICAL" value="72" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="23" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="7" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="26" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="2000" magical_accuracy="356" parry="1154" physical_accuracy="1091" physical_critical="10" attack_speed="2400" max_damage="449" min_damage="426"/>
+        <tradein_list>
+            <tradein_item id="100901028" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000147" count="182" ap="2164752"/>
+        <improve way="2" level="2" burn_attack="26" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="101301035" name="Guardian Commander's Poleaxe" level="60" mask="7240" category="POLEARM" weapon_type="POLEARM_2H" max_stack_count="1" item_type="NORMAL" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604081" restrict_max="63,63,63,63,63,63,63,63,63,63,63,63" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="508" bonus="true"/>
+            <add name="PARRY" value="125" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="35" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="4" attack_range="6000" magical_accuracy="331" parry="1004" physical_accuracy="926" physical_critical="50" attack_speed="2800" max_damage="531" min_damage="285"/>
+    </item_template>
+    <item_template id="101301037" name="Guardian Commander's Poleaxe" level="60" mask="7240" category="POLEARM" weapon_type="POLEARM_2H" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="4398480" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604063" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="585" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="155" bonus="true"/>
+            <add name="PARRY" value="134" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="45" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-18" bonus="true"/>
+            <add name="PHYSICAL_CRITICAL" value="77" bonus="true"/>
+            <add name="SILENCE_RESISTANCE_PENETRATION" value="15" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="4" attack_range="2500" magical_accuracy="380" parry="1175" physical_accuracy="1057" physical_critical="50" attack_speed="2800" max_damage="601" min_damage="323"/>
+    </item_template>
+    <item_template id="101301041" name="Guardian Commander's Poleaxe" level="60" mask="7240" category="POLEARM" weapon_type="POLEARM_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603915" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_CRITICAL" value="72" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="23" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="26" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="7" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="4" attack_range="2500" magical_accuracy="356" parry="1114" physical_accuracy="991" physical_critical="50" attack_speed="2800" max_damage="604" min_damage="325"/>
+        <tradein_list>
+            <tradein_item id="101300976" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="30" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="101301042" name="Guardian Commander's Poleaxe" level="60" mask="7240" category="POLEARM" weapon_type="POLEARM_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603917" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_CRITICAL" value="72" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="23" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="26" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="7" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="4" attack_range="2500" magical_accuracy="356" parry="1114" physical_accuracy="991" physical_critical="50" attack_speed="2800" max_damage="604" min_damage="325"/>
+        <tradein_list>
+            <tradein_item id="101300978" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="30" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="101501116" name="Guardian Commander's Shakujo" level="60" mask="7240" category="STAFF" weapon_type="STAFF_2H" max_stack_count="1" item_type="NORMAL" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" restrict_max="63,63,63,63,63,63,63,63,63,63,63,63" desc="1604083" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="508" bonus="true"/>
+            <add name="PARRY" value="125" bonus="true"/>
+            <add name="PHYSICAL_CRITICAL" value="64" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="6000" boost_magical_skill="820" magical_accuracy="451" parry="1004" physical_accuracy="1026" physical_critical="60" attack_speed="2000" max_damage="350" min_damage="233"/>
+    </item_template>
+    <item_template id="101501118" name="Guardian Commander's Shakujo" level="60" mask="7240" category="STAFF" weapon_type="STAFF_2H" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="4398480" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604065" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="585" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="155" bonus="true"/>
+            <add name="PARRY" value="134" bonus="true"/>
+            <add name="PHYSICAL_CRITICAL" value="77" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="45" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-18" bonus="true"/>
+            <add name="SILENCE_RESISTANCE_PENETRATION" value="15" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="2000" boost_magical_skill="955" magical_accuracy="500" parry="1175" physical_accuracy="1157" physical_critical="60" attack_speed="2000" max_damage="396" min_damage="264"/>
+    </item_template>
+    <item_template id="101501122" name="Guardian Commander's Shakujo" level="60" mask="7240" category="STAFF" weapon_type="STAFF_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603931" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_CRITICAL" value="72" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="23" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="7" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="26" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="2000" boost_magical_skill="940" magical_accuracy="476" parry="1114" physical_accuracy="1091" physical_critical="60" attack_speed="2000" max_damage="398" min_damage="265"/>
+        <tradein_list>
+            <tradein_item id="101501048" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="22" burn_defend="6" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="101501123" name="Guardian Commander's Shakujo" level="60" mask="7240" category="STAFF" weapon_type="STAFF_2H" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603933" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_CRITICAL" value="72" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="23" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="7" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="26" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="3" attack_range="2000" boost_magical_skill="940" magical_accuracy="476" parry="1114" physical_accuracy="1091" physical_critical="60" attack_speed="2000" max_damage="398" min_damage="265"/>
+        <tradein_list>
+            <tradein_item id="101501050" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="22" burn_defend="6" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="101701129" name="Guardian Commander's Recurve" level="60" mask="7240" category="BOW" weapon_type="BOW" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="4398480" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604067" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="MAXHP" value="585" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="155" bonus="true"/>
+            <add name="PHYSICAL_CRITICAL" value="77" bonus="true"/>
+            <add name="PHYSICAL_ATTACK" value="45" bonus="true"/>
+            <add name="MAGICAL_ACCURACY" value="40" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-18" bonus="true"/>
+            <add name="SILENCE_RESISTANCE_PENETRATION" value="15" bonus="true"/>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="25000" magical_accuracy="360" physical_accuracy="1107" physical_critical="50" attack_speed="2400" max_damage="410" min_damage="302"/>
+    </item_template>
+    <item_template id="101701133" name="Guardian Commander's Recurve" level="60" mask="7240" category="BOW" weapon_type="BOW" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603923" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_ATTACK" value="42" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="38" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="43" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="25000" magical_accuracy="336" physical_accuracy="1041" physical_critical="50" attack_speed="2400" max_damage="412" min_damage="304"/>
+        <tradein_list>
+            <tradein_item id="101701058" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="26" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="101701134" name="Guardian Commander's Recurve" level="60" mask="7240" category="BOW" weapon_type="BOW" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="3665400" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1603925" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON">
+        <modifiers>
+            <add name="PHYSICAL_ATTACK" value="42" bonus="true"/>
+            <rate name="ATTACK_SPEED" value="-19" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="156" bonus="true"/>
+            <add name="MAXHP" value="410" bonus="true"/>
+            <add name="PVP_ATTACK_RATIO" value="117" bonus="true"/>
+            <add name="MAXHP" value="49" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="38" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="13" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="99" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_CRITICAL" value="43" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ATTACK" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="PVP_ATTACK_RATIO" value="2" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats hit_count="1" attack_range="25000" magical_accuracy="336" physical_accuracy="1041" physical_critical="50" attack_speed="2400" max_damage="412" min_damage="304"/>
+        <tradein_list>
+            <tradein_item id="101701060" price="1"/>
+            <tradein_item id="186000223" price="104"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="156" ap="6494256"/>
+        <improve way="2" level="2" burn_attack="26" burn_defend="8" price1="44689" price2="178758"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="115001459" name="Guardian Commander's Divine Shield" level="60" mask="4168" category="SHIELD" armor_type="SHIELD" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="2932320" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604069" attack_gap="0.0" slot="2" equipment_type="ARMOR">
+        <modifiers>
+            <add name="BLOCK" value="1145"/>
+            <rate name="DAMAGE_REDUCE" value="50"/>
+            <add name="MAXHP" value="468" bonus="true"/>
+            <add name="PHYSICAL_ACCURACY" value="75" bonus="true"/>
+            <add name="BLOCK" value="150" bonus="true"/>
+            <add name="MAGICAL_RESIST" value="53" bonus="true"/>
+            <add name="MAGIC_SKILL_BOOST_RESIST" value="40" bonus="true"/>
+            <rate name="BOOST_HATE" value="74" bonus="true"/>
+            <add name="PARALYZE_RESISTANCE_PENETRATION" value="8" bonus="true"/>
+        </modifiers>
+        <weapon_stats reduce_max="1773"/>
+    </item_template>
+    <item_template id="115001460" name="Guardian Commander's Divine Shield" level="60" mask="4168" category="SHIELD" armor_type="SHIELD" max_stack_count="1" item_type="NORMAL" quality="MYTHIC" price="2932320" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604071" attack_gap="0.0" slot="2" equipment_type="ARMOR">
+        <modifiers>
+            <add name="BLOCK" value="1145"/>
+            <rate name="DAMAGE_REDUCE" value="50"/>
+            <add name="MAXHP" value="468" bonus="true"/>
+            <add name="MAGICAL_RESIST" value="43" bonus="true"/>
+            <add name="MAGICAL_ACCURACY" value="34" bonus="true"/>
+            <add name="MAGIC_SKILL_BOOST_RESIST" value="40" bonus="true"/>
+            <rate name="BOOST_HATE" value="-38" bonus="true"/>
+            <add name="PARALYZE_RESISTANCE_PENETRATION" value="8" bonus="true"/>
+        </modifiers>
+        <weapon_stats reduce_max="1773"/>
+    </item_template>
+    <item_template id="115001461" name="Guardian Commander's Divine Shield" level="60" mask="4168" category="SHIELD" armor_type="SHIELD" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="2443600" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604047" attack_gap="0.0" slot="2" equipment_type="ARMOR">
+        <modifiers>
+            <add name="BLOCK" value="1123"/>
+            <rate name="DAMAGE_REDUCE" value="50"/>
+            <add name="MAXHP" value="395" bonus="true"/>
+            <add name="BLOCK" value="155" bonus="true"/>
+            <add name="PHYSICAL_DEFENSE" value="123" bonus="true"/>
+            <add name="MAGICAL_RESIST" value="55" bonus="true"/>
+            <add name="PVP_DEFEND_RATIO" value="58" bonus="true"/>
+            <add name="MAXHP" value="39" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="BLOCK" value="24" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="12" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="18" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="78" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGIC_SKILL_BOOST_RESIST" value="46" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats reduce_max="1728"/>
+        <tradein_list>
+            <tradein_item id="115001379" price="1"/>
+            <tradein_item id="186000223" price="70"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="105" ap="4329504"/>
+        <improve way="2" level="2" burn_attack="4" burn_defend="28" price1="28040" price2="56080"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+    <item_template id="115001462" name="Guardian Commander's Divine Shield" level="60" mask="4168" category="SHIELD" armor_type="SHIELD" max_stack_count="1" item_type="ABYSS" quality="EPIC" price="2443600" race="PC_ALL" option_slot_bonus="0" restrict="60,60,60,60,60,60,60,60,60,60,60,60" desc="1604049" attack_gap="0.0" slot="2" equipment_type="ARMOR">
+        <modifiers>
+            <add name="BLOCK" value="1123"/>
+            <rate name="DAMAGE_REDUCE" value="50"/>
+            <add name="MAXHP" value="395" bonus="true"/>
+            <add name="BLOCK" value="155" bonus="true"/>
+            <add name="PHYSICAL_DEFENSE" value="123" bonus="true"/>
+            <add name="MAGICAL_RESIST" value="55" bonus="true"/>
+            <add name="PVP_DEFEND_RATIO" value="58" bonus="true"/>
+            <add name="MAXHP" value="39" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="BLOCK" value="24" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="PHYSICAL_ACCURACY" value="12" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="BOOST_MAGICAL_SKILL" value="18" bonus="true">
+                <conditions>
+                    <charge level="1"/>
+                </conditions>
+            </add>
+            <add name="MAXHP" value="78" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGIC_SKILL_BOOST_RESIST" value="46" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+            <add name="MAGICAL_ACCURACY" value="6" bonus="true">
+                <conditions>
+                    <charge level="2"/>
+                </conditions>
+            </add>
+        </modifiers>
+        <weapon_stats reduce_max="1728"/>
+        <tradein_list>
+            <tradein_item id="115001381" price="1"/>
+            <tradein_item id="186000223" price="70"/>
+        </tradein_list>
+        <acquisition type="ABYSS" item="186000223" count="105" ap="4329504"/>
+        <improve way="2" level="2" burn_attack="4" burn_defend="28" price1="28040" price2="56080"/>
+        <uselimits rank_min="9"/>
+    </item_template>
+	
+	<!--Innocent Aris's Weapons-->
+	<!--Sword-->
+	<item_template id="100001397" name="Innocent Aris's Sword" level="50" mask="138494" category="SWORD" weapon_type="SWORD_1H" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="3489250" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602153" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON" m_slots="3" m_slots_r="1">
+		<modifiers>  
+		  	<add name="PHYSICAL_ACCURACY" value="64" bonus="true"/>
+		</modifiers>
+		<weapon_stats hit_count="2" attack_range="1500" magical_accuracy="254" parry="840" physical_accuracy="778" physical_critical="50" attack_speed="1400" max_damage="149" min_damage="183"/>
+	</item_template>
+	<!--Mace-->
+	<item_template id="100101074" name="Innocent Aris's Mace" level="50" mask="138494" category="MACE" weapon_type="MACE_1H" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="3489250" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602155" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON" >
+		<weapon_stats hit_count="3" attack_range="1500" boost_magical_skill="670" magical_accuracy="314" parry="692" physical_accuracy="788" physical_critical="10" attack_speed="1500" max_damage="133" min_damage="201"/>
+	</item_template>
+	<!--Dagger-->
+	<item_template id="100201236" name="Innocent Aris's Dagger" level="50" mask="138494" category="DAGGER" weapon_type="DAGGER_1H" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="3489250" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602157" attack_gap="0.0" attack_type="PHYSICAL" slot="3" equipment_type="WEAPON" >
+		<weapon_stats hit_count="1" attack_range="1500" magical_accuracy="234" parry="652" physical_accuracy="738" physical_critical="100" attack_speed="1200" max_damage="127" min_damage="141"/>
+	</item_template>
+	<!--Orb-->
+	<item_template id="100501085" name="Innocent Aris's Jewel" level="50" mask="138494" category="ORB" weapon_type="ORB_2H" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="6426250" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602159" attack_gap="0.0" attack_type="MAGICAL_FIRE" slot="1" equipment_type="WEAPON" m_slots="3" m_slots_r="1">
+		<modifiers>
+			<add name="MAXMP" value="727" bonus="true"/>
+		</modifiers>
+		<weapon_stats hit_count="1" attack_range="2500" boost_magical_skill="770" magical_accuracy="345" attack_speed="2200" max_damage="240" min_damage="294"/>
+	</item_template>
+	<!--Spellbook-->
+	<item_template id="100601141" name="Innocent Aris's Spellbook" level="50" mask="138494" category="SPELLBOOK" weapon_type="BOOK_2H" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="6426250" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602161" attack_gap="0.0" attack_type="MAGICAL_WATER" slot="1" equipment_type="WEAPON" >
+		<weapon_stats hit_count="1" attack_range="15000" boost_magical_skill="670" magical_accuracy="354" attack_speed="2200" max_damage="171" min_damage="190"/>
+	</item_template>
+	<!--Greatswords-->
+	<item_template id="100901092" name="Innocent Aris's Greatsword" level="50" mask="138494" category="GREATSWORD" weapon_type="SWORD_2H" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="6426250" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602163" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON" >
+		<weapon_stats hit_count="3" attack_range="2000" magical_accuracy="234" parry="772" physical_accuracy="788" physical_critical="10" attack_speed="2400" max_damage="286" min_damage="302"/>
+	</item_template>
+	<!--Polearm-->
+	<item_template id="101301029" name="Innocent Aris's Polearm" level="50" mask="138494" category="POLEARM" weapon_type="POLEARM_2H" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="6426250" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602165" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON" >
+		<weapon_stats hit_count="4" attack_range="2500" magical_accuracy="234" parry="732" physical_accuracy="688" physical_critical="50" attack_speed="2800" max_damage="218" min_damage="406"/>
+	</item_template>
+	<!--Staff-->
+	<item_template id="101501110" name="Innocent Aris's Staff" level="50" mask="138494" category="STAFF" weapon_type="STAFF_2H" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="6426250" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602167" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON" m_slots="3" m_slots_r="1">
+		<weapon_stats hit_count="3" attack_range="2000" boost_magical_skill="710" magical_accuracy="354" parry="732" physical_accuracy="788" physical_critical="60" attack_speed="2000" max_damage="178" min_damage="268"/>
+	</item_template>	
+	<!--Bow-->
+	<item_template id="101701122" name="Innocent Aris's Bow" level="50" mask="138494" category="BOW" weapon_type="BOW" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="6426250" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602169" attack_gap="0.0" attack_type="PHYSICAL" slot="1" equipment_type="WEAPON"  >
+		<weapon_stats hit_count="1" attack_range="25000" magical_accuracy="234" physical_accuracy="738" physical_critical="50" attack_speed="2400" max_damage="205" min_damage="278"/>
+	</item_template>
+	<!--Shield-->
+	<item_template id="115001448" name="Innocent Aris's Shield" level="50" mask="168190" category="SHIELD" armor_type="SHIELD" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="581550" race="PC_ALL" option_slot_bonus="0" restrict="50,50,50,50,50,50,50,50,50,50,50,50" desc="1602171" attack_gap="0.0" slot="2" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="BLOCK" value="810" />
+		</modifiers>
+		<weapon_stats reduce_max="1323"/>
+	</item_template>
+	<!--End of Innocent Aris's Weapons-->
+	<!--Innocent Aris's Armors-->
+	<!-- Cloth-->
+	<item_template id="110101477" name="Innocent Aris's Tunic" level="40" mask="168190" category="JACKET" armor_type="ROBE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602173" attack_gap="0.0" slot="8" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="141" />
+			<add name="MAGICAL_RESIST" value="108" />
+			<add name="PHYSICAL_DEFENSE" value="96" />
+			<add name="FLY_TIME" value="17" bonus="true" />
+			<rate name="FLY_SPEED" value="7" bonus="true" />
+			<add name="MAXMP" value="428" bonus="true" />
+			<add name="CONCENTRATION" value="12" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="111101333" name="Innocent Aris's Gloves" level="40" mask="168190" category="GLOVES" armor_type="ROBE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="298400" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602181" attack_gap="0.0" slot="16" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="85" />
+			<add name="MAGICAL_RESIST" value="65" />
+			<add name="PHYSICAL_DEFENSE" value="58" />
+			<add name="MAXHP" value="72" bonus="true" />
+			<add name="PHYSICAL_DEFENSE" value="23" bonus="true" />
+			<add name="MAXMP" value="256" bonus="true"/>
+			<add name="CONCENTRATION" value="7" bonus="true"/>
+		</modifiers>
+	</item_template>
+	<item_template id="112101290" name="Innocent Aris's Pauldrons" level="40" mask="168190" category="SHOULDERS" armor_type="ROBE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602189" attack_gap="0.0" slot="2048" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="85" />
+			<add name="MAGICAL_RESIST" value="65" />
+			<add name="PHYSICAL_DEFENSE" value="58" />
+			<add name="MAXMP" value="328" bonus="true"/>
+			<add name="MAGICAL_RESIST" value="13" bonus="true"/>
+			<add name="CONCENTRATION" value="7" bonus="true"/>
+		</modifiers>
+	</item_template>
+	<item_template id="113101350" name="Innocent Aris's Leggings" level="40" mask="168190" category="PANTS" armor_type="ROBE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="895150" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602197" attack_gap="0.0" slot="4096" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="113" />
+			<add name="MAGICAL_RESIST" value="87" />
+			<add name="PHYSICAL_DEFENSE" value="77" />
+			<add bonus="true" name="MAXHP" value="108" />
+			<add name="PHYSICAL_DEFENSE" value="35" bonus="true"/>
+			<add name="MAXMP" value="342" bonus="true"/>
+			<add name="CONCENTRATION" value="10" bonus="true"/>
+		</modifiers>
+	</item_template>
+	<item_template id="114101379" name="Innocent Aris's Shoes" level="40" mask="168190" category="SHOES" armor_type="ROBE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602205" attack_gap="0.0" slot="32" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="85" />
+			<add name="MAGICAL_RESIST" value="65" />
+			<add name="PHYSICAL_DEFENSE" value="58" />
+			<add name="MAXMP" value="328" bonus="true"/>
+			<add name="MAGICAL_RESIST" value="13" bonus="true"/>
+			<add name="CONCENTRATION" value="7" bonus="true"/>
+		</modifiers>
+	</item_template>	
+	<!-- End of Cloth-->
+	<!-- Leather -->
+	<item_template id="110301385" name="Innocent Aris's Jerkin" level="40" mask="168190" category="JACKET" armor_type="LEATHER" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="1193500" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602175" attack_gap="0.0" slot="8" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="161" />
+			<add name="MAGICAL_RESIST" value="96" />
+			<add name="PHYSICAL_DEFENSE" value="191" />
+			<add name="EVASION" value="28" bonus="true"/>
+			<add name="FLY_TIME" value="17" bonus="true"/>
+		</modifiers>
+	</item_template>	
+	<item_template id="111301328" name="Innocent Aris's Vambrace" level="40" mask="168190" category="GLOVES" armor_type="LEATHER" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="576750" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602183" attack_gap="0.0" slot="16" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="97" />
+			<add name="MAGICAL_RESIST" value="58" />
+			<add name="PHYSICAL_DEFENSE" value="115" />
+			<add name="MAXHP" value="72" bonus="true"/>
+			<add name="MAGICAL_RESIST" value="13" bonus="true"/>
+		</modifiers>
+	</item_template>
+	<item_template id="112301271" name="Innocent Aris's Shoulderguards" level="40" mask="168190" category="SHOULDERS" armor_type="LEATHER" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602191" attack_gap="0.0" slot="2048" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="97" />
+			<add name="MAGICAL_RESIST" value="58" />
+			<add name="PHYSICAL_DEFENSE" value="115" />
+			<add name="MAXMP" value="72" bonus="true"/>
+			<add name="PHYSICAL_DEFENSE" value="23" bonus="true"/>
+		</modifiers>
+	</item_template>
+	<item_template id="113301352" name="Innocent Aris's Breeches" level="40" mask="168190" category="PANTS" armor_type="LEATHER" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="895150" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602199" attack_gap="0.0" slot="4096" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="129" />
+			<add name="MAGICAL_RESIST" value="77" />
+			<add name="PHYSICAL_DEFENSE" value="153" />
+			<add name="MAXHP" value="108" bonus="true"/>
+			<add name="MAGICAL_RESIST" value="19" bonus="true"/>
+		</modifiers>
+	</item_template>
+	<item_template id="114301385" name="Innocent Aris's Boots" level="40" mask="168190" category="SHOES" armor_type="LEATHER" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602207" attack_gap="0.0" slot="32" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="97" />
+			<add name="MAGICAL_RESIST" value="58" />
+			<add name="PHYSICAL_DEFENSE" value="115" />
+			<add name="MAXMP" value="72" bonus="true"/>
+			<add name="PHYSICAL_DEFENSE" value="23" bonus="true"/>
+		</modifiers>
+	</item_template>
+	<!-- End of Leather-->
+	<!-- Chain -->
+	<item_template id="110501360" name="Innocent Aris's Hauberk" level="40" mask="168190" category="JACKET" armor_type="CHAIN" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="1193500" race="PC_ALL" dye="true" option_slot_bonus="1" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602177" attack_gap="0.0" slot="8" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="129" />
+			<add name="MAGICAL_RESIST" value="96" />
+			<add name="PHYSICAL_DEFENSE" value="239" />
+			<add name="MAXMP" value="145" bonus="true" />
+			<add name="FLY_TIME" value="17" bonus="true" />
+			<add name="CONCENTRATION" value="12" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="111501320" name="Innocent Aris's Handguards" level="40" mask="168190"  category="GLOVES" armor_type="CHAIN" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602185" attack_gap="0.0" slot="16" equipment_type="ARMOR">
+		<modifiers>
+			<add name="EVASION" value="78" />
+			<add name="MAGICAL_RESIST" value="58" />
+			<add name="PHYSICAL_DEFENSE" value="143" />
+			<add name="MAXHP" value="72" bonus="true" />
+			<add name="PARRY" value="28" bonus="true" />
+			<add name="CONCENTRATION" value="7" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="112501260" name="Innocent Aris's Spaulders" level="40" mask="168190" category="SHOULDERS" armor_type="CHAIN" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="576750" race="PC_ALL" dye="true" option_slot_bonus="1" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602193" attack_gap="0.0" slot="2048" equipment_type="ARMOR">
+		<modifiers>
+			<add name="EVASION" value="78" />
+			<add name="MAGICAL_RESIST" value="58" />
+			<add name="PHYSICAL_DEFENSE" value="143" />
+			<add name="MAXMP" value="72" bonus="true"/>
+			<add name="BLOCK" value="29" bonus="true"/>
+			<add name="CONCENTRATION" value="7" bonus="true"/>
+		</modifiers>
+	</item_template>
+	<item_template id="113501335" name="Innocent Aris's Chain Pants" level="40" mask="168190" category="PANTS" armor_type="CHAIN" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="895150" race="PC_ALL" dye="true" option_slot_bonus="1" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602201" attack_gap="0.0" slot="4096" equipment_type="ARMOR">
+		<modifiers>
+			<add name="EVASION" value="103" />
+			<add name="MAGICAL_RESIST" value="77" />
+			<add name="PHYSICAL_DEFENSE" value="191" />
+			<add name="MAXHP" value="108" bonus="true" />
+			<add name="PARRY" value="42" bonus="true" />
+			<add name="CONCENTRATION" value="10" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="114501341" name="Innocent Aris's Brogans" level="40" mask="168190" category="SHOES" armor_type="CHAIN" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="1" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602209" attack_gap="0.0" slot="32" equipment_type="ARMOR">
+		<modifiers>
+			<add name="EVASION" value="78" />
+			<add name="MAGICAL_RESIST" value="58" />
+			<add name="PHYSICAL_DEFENSE" value="143" />
+			<add name="MAXMP" value="72" bonus="true" />
+			<add name="BOOST_MAGICAL_SKILL" value="18" bonus="true" />
+			<add name="CONCENTRATION" value="7" bonus="true" />
+		</modifiers>
+	</item_template>
+	<!-- End of Chain -->
+	<!-- Plate -->
+	<item_template id="110601333" name="Innocent Aris's Breastplate" level="40" mask="168190" category="JACKET" armor_type="PLATE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="1193500" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602179" attack_gap="0.0" slot="8" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="116" />
+			<add name="MAGICAL_RESIST" value="83" />
+			<add name="PHYSICAL_DEFENSE" value="286" />
+			<add name="MAXMP" value="145" bonus="true" />
+			<add name="MAGICAL_RESIST" value="26" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="111601298" name="Innocent Aris's Gauntlets" level="40" mask="168190" category="GLOVES" armor_type="PLATE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602187" attack_gap="0.0" slot="16" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="70" />
+			<add name="MAGICAL_RESIST" value="50" />
+			<add name="PHYSICAL_DEFENSE" value="172" />
+			<add name="MAXHP" value="72" bonus="true" />
+			<add name="PARRY" value="28" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="112601278" name="Innocent Aris's Shoulderplates" level="40" mask="168190" category="SHOULDERS" armor_type="PLATE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="1" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602195" attack_gap="0.0" slot="2048" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="70" />
+			<add name="MAGICAL_RESIST" value="50" />
+			<add name="PHYSICAL_DEFENSE" value="172" />
+			<add name="MAXMP" value="72" bonus="true" />
+			<add name="MAGICAL_RESIST" value="13" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="113601287" name="Innocent Aris's Greaves" level="40" mask="168190" category="PANTS" armor_type="PLATE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="895150" race="PC_ALL" dye="true" option_slot_bonus="1" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602203" attack_gap="0.0" slot="4096" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="93" />
+			<add name="MAGICAL_RESIST" value="67" />
+			<add name="PHYSICAL_DEFENSE" value="229" />
+			<add name="MAXHP" value="108" bonus="true" />
+			<add name="PARRY" value="42" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="114601282" name="Innocent Aris's Sabatons" level="40" mask="168190" category="SHOES" armor_type="PLATE" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="596750" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602211" attack_gap="0.0" slot="32" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="70" />
+			<add name="MAGICAL_RESIST" value="50" />
+			<add name="PHYSICAL_DEFENSE" value="172" />
+			<add name="MAXMP" value="72" bonus="true" />
+			<add name="MAGICAL_RESIST" value="13" bonus="true" />
+			</modifiers>
+	</item_template>
+	<!--End of Plate-->
+	<!--End of Innocent Aris's Armors-->
+	<!--Innocent Aris's Helmet-->
+	<item_template id="125003202" name="Innocent Aris's Cloth Accessory" level="40" mask="168702" category="HELMET" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="1193500" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602213" attack_gap="0.0" slot="4" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="BOOST_MAGICAL_SKILL" value="36" bonus="true" />
+			<add name="EARTH_RESISTANCE" value="41" bonus="true" />
+			<add name="PHYSICAL_DEFENSE" value="39" bonus="true" />
+			<add name="MAGICAL_RESIST" value="44" bonus="true" />
+			<add name="MAXMP" value="171" bonus="true" />
+			<add name="CONCENTRATION" value="5" bonus="true" />
+			<add name="EVASION" value="57" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="125003203" name="Innocent Aris's Leather Accessory" level="40" mask="168702" category="HELMET" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="1193500" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602215" attack_gap="0.0" slot="4" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="EVASION" value="93" bonus="true" />
+			<add name="WIND_RESISTANCE" value="41" bonus="true" />
+			<add name="PHYSICAL_DEFENSE" value="77" bonus="true" />
+			<add name="MAGICAL_RESIST" value="39" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="125003204" name="Innocent Aris's Chain Accessory" level="40" mask="168702" category="HELMET" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="1193500" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602217" attack_gap="0.0" slot="4" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="MAXMP" value="145" bonus="true" />
+			<add name="WIND_RESISTANCE" value="41" bonus="true" />
+			<add name="PHYSICAL_DEFENSE" value="96" bonus="true" />
+			<add name="MAGICAL_RESIST" value="39" bonus="true" />
+			<add name="CONCENTRATION" value="5" bonus="true" />
+			<add name="EVASION" value="52" bonus="true" />
+		</modifiers>
+	</item_template>
+	<item_template id="125003205" name="Innocent Aris's Plate Accessory" level="40" mask="168702" category="HELMET" max_stack_count="1" item_type="NORMAL" quality="LEGEND" price="1193500" race="PC_ALL" dye="true" option_slot_bonus="0" restrict="40,40,40,40,40,40,40,40,40,40,40,40" desc="1602219" attack_gap="0.0" slot="4" equipment_type="ARMOR" >
+		<modifiers>
+			<add name="PHYSICAL_DEFENSE" value="162" bonus="true" />
+			<add name="FIRE_RESISTANCE" value="41" bonus="true" />
+			<add name="MAGICAL_RESIST" value="34" bonus="true" />
+			<add name="EVASION" value="47" bonus="true" />
+		</modifiers>
+	</item_template>	
+	<!-- End of Innocent Aris's Helmet -->
+	<!-- End of Innocent Aris's item series -->
+	
+	
+	
+	
+	
+	
+	
+</item_templates>

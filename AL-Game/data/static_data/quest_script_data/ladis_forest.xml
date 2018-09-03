@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+            [BEGIN] SUMMARY
+                    30400 [XML] A Cry For Help
+                    30401 [TODO] All For a Stone
+                    30403 [XML] Cute Overload
+                    30404 [TODO] A Spiritual Consultation
+                    30405 [TODO] Cursebreakers
+                    30406 [XML] Cage Courier
+                    30407 [TODO] Catching the Light
+                    30411 [XML] Clearcutting
+                    30413 [TODO] Entanglements
+                    30415 [XML] The Light Crystal
+                    30419 [XML] Stop the Sapping
+                    30421 [XML] Toy Fair
+                    30450 [XML] Mysterious Errand
+                    30451 [TODO] Key to the Manor
+                    30453 [XML] The Completionist
+                    30454 [TODO] Gotta Catch 'Em All
+                    30455 [TODO] Jurdin's Release
+                    30456 [XML] Carrying the Cage
+                    30457 [TODO] Spirit Chase
+                    30460 [TODO] Terma-nate!
+                    30462 [XML] Adventure!
+                    30466 [XML] A Rock Containing Crystal
+                    30470 [XML] What a Sap!
+            [END] SUMMARY
+    -->
+    <!-- SAME QUEST AS ELEMENTIS_FOREST DO NOT REWRITE -->
+</quest_scripts>

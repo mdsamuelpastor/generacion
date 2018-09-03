@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<npc_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- TODO : 2 Towers as guards -->
+	<npc_template npc_id="296368" level="80" name="abyss default guard tower_el" name_id="304560" npc_type="NON_ATTACKABLE" height="17.5" rank="VETERAN" rating="LEGENDARY" race="ELYOS" tribe="GUARD" type="GUARD" ai="aggressive" srange="40" arange="35" adelay="200" arate="1000" hpgauge="14">
+		<stats maxHp="256000000" maxXp="100" main_hand_attack="99999" main_hand_accuracy="99999" pdef="99999" mresist="99999" power="99999" evasion="99999" accuracy="99999"/>
+		<bound_radius front="2.17" side="2.17" upper="17.5"/>
+	</npc_template>
+	<npc_template npc_id="296373" level="80" name="abyss default guard tower_asmo" name_id="304945" npc_type="NON_ATTACKABLE" height="17.5" rank="VETERAN" rating="LEGENDARY" race="ASMODIANS" tribe="GUARD_DARK" type="GUARD" ai="aggressive" srange="40" arange="35" adelay="200" arate="1000" hpgauge="14">
+		<stats maxHp="256000000" maxXp="100" main_hand_attack="99999" main_hand_accuracy="99999" pdef="99999" mresist="99999" power="99999" evasion="99999" accuracy="99999"/>
+		<bound_radius front="2.17" side="2.17" upper="17.5"/>
+	</npc_template>
+	<npc_template npc_id="296378" level="80" name="abyss default guard tower_bal" name_id="304949" npc_type="NON_ATTACKABLE" height="17.5" rank="VETERAN" rating="LEGENDARY" tribe="GUARD_DRAGON" type="GUARD" ai="general" srange="40" arange="35" adelay="200" arate="1000" hpgauge="14">
+		<stats maxHp="256000000" maxXp="100" main_hand_attack="99999" main_hand_accuracy="99999" pdef="99999" mresist="99999" power="99999" evasion="99999" accuracy="99999"/>
+		<bound_radius front="2.17" side="2.17" upper="17.5"/>
+	</npc_template>
+	<!-- Inggison 1st Gates -->
+	<npc_template npc_id="257194" level="55" name="fortress gate" name_id="319946" npc_type="NON_ATTACKABLE" height="12" rank="VETERAN" rating="LEGENDARY" race="DRAGON_CASTLE_DOOR" tribe="GENERAL_DRAGON" type="ABYSS_GUARD" abyss_type="DOOR" ai="fortressgate" srange="15" adelay="2000" hpgauge="27">
+		<stats maxHp="5000000" maxXp="2000000" main_hand_attack="2370" main_hand_accuracy="1213" pdef="1180" mresist="1213" power="1012" evasion="1213" accuracy="2100"/>
+		<bound_radius front="2.3" side="2.3" upper="12"/>
+		<talk_info distance="5"/>
+	</npc_template>
+	<npc_template npc_id="257494" level="55" name="fortress gate" name_id="320750" npc_type="NON_ATTACKABLE" height="12" rank="VETERAN" rating="LEGENDARY" race="DRAGON_CASTLE_DOOR" tribe="GENERAL_DRAGON" type="ABYSS_GUARD" abyss_type="DOOR" ai="fortressgate" srange="15" adelay="2000" hpgauge="27">
+		<stats maxHp="5000000" maxXp="2000000" main_hand_attack="2370" main_hand_accuracy="1213" pdef="1180" mresist="1213" power="1012" evasion="1213" accuracy="2100"/>
+		<bound_radius front="2.3" side="2.3" upper="12"/>
+		<talk_info distance="5"/>
+	</npc_template>
+	<!-- Gelkmaros 1st Gates -->
+	<npc_template npc_id="257794" level="55" name="fortress gate" name_id="320972" npc_type="NON_ATTACKABLE" height="12" rank="VETERAN" rating="LEGENDARY" race="DRAGON_CASTLE_DOOR" tribe="GENERAL_DRAGON" type="ABYSS_GUARD" abyss_type="DOOR" ai="fortressgate" srange="15" adelay="2000" hpgauge="27">
+		<stats maxHp="5000000" maxXp="2000000" main_hand_attack="2370" main_hand_accuracy="1213" pdef="1180" mresist="1213" power="1012" evasion="1213" accuracy="2100"/>
+		<bound_radius front="2.3" side="2.3" upper="12"/>
+		<talk_info distance="5"/>
+	</npc_template>
+	<npc_template npc_id="258094" level="55" name="fortress gate" name_id="321194" npc_type="NON_ATTACKABLE" height="12" rank="VETERAN" rating="LEGENDARY" race="DRAGON_CASTLE_DOOR" tribe="GENERAL_DRAGON" type="ABYSS_GUARD" abyss_type="DOOR" ai="fortressgate" srange="15" adelay="2000" hpgauge="27">
+		<stats maxHp="5000000" maxXp="2000000" main_hand_attack="2370" main_hand_accuracy="1213" pdef="1180" mresist="1213" power="1012" evasion="1213" accuracy="2100"/>
+		<bound_radius front="2.3" side="2.3" upper="12"/>
+		<talk_info distance="5"/>
+	</npc_template>
+</npc_templates>

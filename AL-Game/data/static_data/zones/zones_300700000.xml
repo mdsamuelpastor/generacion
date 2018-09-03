@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+    <zone mapid="300700000" name="THE_HEXWAY_300700000" area_type="POLYGON" zone_type="SUB" priority="16" flags="2">
+        <points bottom="250.0" top="450.0">
+            <point x="111.739998" y="303.019989"/>
+            <point x="111.739960" y="875.570313"/>
+            <point x="833.558472" y="875.570313"/>
+            <point x="833.558533" y="303.019989"/>
+        </points>
+    </zone>
+</zones>

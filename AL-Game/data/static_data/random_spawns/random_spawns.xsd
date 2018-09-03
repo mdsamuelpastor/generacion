@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="random_spawns" type="RandomSpawns"/>
+	<xs:complexType name="RandomSpawns">
+		<xs:sequence>
+			<xs:element name="random_spawn" type="RandomSpawn" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="RandomSpawn">
+		<xs:sequence>
+			<xs:element name="point" type="Point" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="npc_id" type="xs:int" use="required"/>
+		<xs:attribute name="respawn_time" type="xs:int" use="required"/>
+		<xs:attribute name="day_time" type="DayTime" use="optional" default="ALL"/>
+	</xs:complexType>
+	<xs:complexType name="Point">
+		<xs:attribute name="map_id" type="xs:int" use="required"/>
+		<xs:attribute name="instance_id" type="xs:int" use="optional" default="1"/>
+		<xs:attribute name="x" type="xs:float" use="required"/>
+		<xs:attribute name="y" type="xs:float" use="required"/>
+		<xs:attribute name="z" type="xs:float" use="required"/>
+		<xs:attribute name="h" type="HeadingType" use="optional" default="0"/>
+	</xs:complexType>
+	<xs:simpleType name="DayTime">
+		<xs:restriction base="xs:string">
+		<xs:enumeration value="ALL"/>
+		<xs:enumeration value="DAY"/>
+		<xs:enumeration value="NIGHT"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

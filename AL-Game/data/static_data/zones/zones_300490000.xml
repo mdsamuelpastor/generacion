@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+    <zone name="IDTiamat_solo_SZ_All" priority="16" mapid="300490000" area_type="POLYGON" zone_type="SUB" flags="6">
+    <points bottom="157.000000" top="557.000000" >
+			<point x="399.000000" y="412.000000" />
+			<point x="609.000000" y="412.000000" />
+			<point x="609.000000" y="632.000000" />
+			<point x="399.000000" y="632.000000" />
+     </points>
+    </zone>
+</zones>

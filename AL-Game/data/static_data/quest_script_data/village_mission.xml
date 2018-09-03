@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17100" start_npc_ids="0" end_npc_ids="0"/>
+	<!-- [Daily] Blessed Fountain Components Construction (Elyos Only) -->
+	<item_collecting id="17101" start_npc_ids="0"/>
+	<!-- [Daily] Crafting Metal For The Bell Tower (Elyos Only) -->
+	<item_collecting id="17102" start_npc_ids="0"/>
+	<!-- [Daily] What Is Needed For The Flowerbed (Elyos Only) -->
+	<item_collecting id="17103" start_npc_ids="0"/>
+	<!-- [Daily] Light That Grows Plants (Elyos Only) -->
+	<item_collecting id="17104" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17105" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17106" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17107" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17108" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17109" start_npc_ids="0" end_npc_ids="831256"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17110" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17111" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17112" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17113" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17114" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17115" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17116" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17117" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17118" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17119" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17120" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17121" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17122" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17123" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17124" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17125" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17126" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17127" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17128" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17129" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17130" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17131" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17132" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17133" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17134" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17135" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17136" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17137" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17138" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17139" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17140" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17141" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17142" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17143" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17144" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17145" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17146" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17147" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17148" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17149" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17150" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17151" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17152" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Elyos Only) -->
+	<item_collecting id="17153" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Elyos Only) -->
+	<item_collecting id="17154" start_npc_ids="0"/>
+	
+	
+	
+	<!-- [Daily] Village's Old Grudge (Asmodians Only) -->
+	<item_collecting id="27100" start_npc_ids="0"/>
+	<!-- [Daily] Blessed Fountain Components Construction (Asmodians Only) -->
+	<item_collecting id="27101" start_npc_ids="0"/>
+	<!-- [Daily] Crafting Metal For The Bell Tower (Asmodians Only) -->
+	<item_collecting id="27102" start_npc_ids="0"/>
+	<!-- [Daily] What Is Needed For The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27103" start_npc_ids="0"/>
+	<!-- [Daily] Light That Grows Plants (Asmodians Only) -->
+	<item_collecting id="27104" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27105" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27106" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27107" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27108" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27109" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27110" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27111" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27112" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27113" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27114" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27115" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27116" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27117" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27118" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27119" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27120" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27121" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27122" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27123" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27124" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27125" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27126" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27127" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27128" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27129" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27130" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27131" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27132" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27133" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27134" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27135" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27136" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27137" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27138" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27139" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27140" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27141" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27142" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27143" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27144" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27145" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27146" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27147" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27148" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27149" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27150" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27151" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27152" start_npc_ids="0"/>
+	<!-- [Daily] The Flower's Essence That Bloomed In The Flowerbed (Asmodians Only) -->
+	<item_collecting id="27153" start_npc_ids="0"/>
+	<!-- [Daily] Appearance Of The Shulack Bandits (Asmodians Only) -->
+	<item_collecting id="27154" start_npc_ids="0"/>
+</quest_scripts>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone mapid="301050000" name="STR_IDSHULACKSHIP_02_SZ_3F_00_301050000" area_type="POLYGON" zone_type="SUB" priority="12">
+		<points bottom="1054" top="1104">
+			<point x="354.5200" y="443.2100" />
+			<point x="491.9169" y="443.5051" />
+			<point x="492.0818" y="575.0378" />
+			<point x="354.8612" y="575.4071" />
+		</points>
+	</zone>
+	<zone mapid="301050000" name="STR_IDSHULACKSHIP_02_SZ_3F_04_301050000" area_type="POLYGON" zone_type="SUB" priority="13">
+		<points bottom="988.7941" top="1068.79407">
+			<point x="723.1196" y="453.3755" />
+			<point x="793.0912" y="453.3509" />
+			<point x="793.0499" y="567.0226" />
+			<point x="723.1162" y="566.9219" />
+		</points>
+	</zone>
+	<zone mapid="301050000" name="STR_IDSHULACKSHIP_02_SZ_3F_01_301050000" area_type="POLYGON" zone_type="SUB" priority="15">
+		<points bottom="1005" top="1155">
+			<point x="348.3700" y="419.4200" />
+			<point x="656.1535" y="420.1259" />
+			<point x="656.8505" y="517.7537" />
+			<point x="698.7809" y="517.7537" />
+			<point x="698.7531" y="596.0073" />
+			<point x="348.2130" y="595.8336" />
+		</points>
+	</zone>
+	<zone mapid="301050000" name="STR_IDSHULACKSHIP_02_SZ_3F_05_301050000" area_type="POLYGON" zone_type="SUB" priority="13">
+		<points bottom="1003.95789" top="1053.95789">
+			<point x="628.7241" y="449.5401" />
+			<point x="648.7869" y="444.1116" />
+			<point x="720.8334" y="444.1703" />
+			<point x="720.7034" y="472.5509" />
+			<point x="696.5681" y="472.4815" />
+			<point x="693.8979" y="463.2907" />
+			<point x="673.2219" y="457.3494" />
+			<point x="649.8724" y="455.8135" />
+			<point x="628.4830" y="459.6526" />
+		</points>
+	</zone>
+	<zone mapid="301050000" name="STR_IDSHULACKSHIP_02_SZ_3F_03_301050000" area_type="POLYGON" zone_type="SUB" priority="13">
+		<points bottom="1003.95789" top="1053.95789">
+			<point x="654.8981" y="517.1009" />
+			<point x="699.5475" y="516.9603" />
+			<point x="699.5197" y="532.6797" />
+			<point x="716.5268" y="532.7277" />
+			<point x="716.5458" y="554.2033" />
+			<point x="665.9770" y="566.1312" />
+			<point x="656.0859" y="551.8714" />
+		</points>
+	</zone>
+	<zone mapid="301050000" name="STR_IDSHULACKSHIP_02_SZ_3F_301050000" area_type="POLYGON" zone_type="SUB" priority="18">
+		<points bottom="979.1417" top="1119.14172">
+			<point x="353.6035" y="408.2730" />
+			<point x="826.7798" y="408.2730" />
+			<point x="824.8262" y="598.3398" />
+			<point x="353.9163" y="596.5789" />
+		</points>
+	</zone>
+	<zone mapid="301050000" name="STR_IDSHULACKSHIP_02_SZ_3F_BOSS_301050000" area_type="POLYGON" zone_type="SUB" priority="11">
+		<points bottom="1064.1908" top="1114.1908">
+			<point x="371.2460" y="481.4232" />
+			<point x="442.9753" y="482.0630" />
+			<point x="443.1402" y="537.7601" />
+			<point x="371.2426" y="536.7573" />
+		</points>
+	</zone>
+	<zone mapid="301050000" name="STR_IDSHULACKSHIP_02_SZ_ALL_301050000" area_type="POLYGON" zone_type="SUB" priority="20">
+		<points bottom="849.406" top="1149.406">
+			<point x="199.8060" y="397.3343" />
+			<point x="810.9385" y="398.5930" />
+			<point x="812.1973" y="647.8700" />
+			<point x="200.1187" y="645.7505" />
+		</points>
+	</zone>
+	<zone mapid="301050000" name="STR_IDSHULACKSHIP_02_SZ_3F_02_301050000" area_type="POLYGON" zone_type="SUB" priority="14">
+		<points bottom="1003.95789" top="1053.95789">
+			<point x="655.4421" y="458.3582" />
+			<point x="673.6037" y="456.4946" />
+			<point x="694.6169" y="462.7468" />
+			<point x="699.5873" y="483.2297" />
+			<point x="723.7289" y="483.0327" />
+			<point x="723.7615" y="533.3461" />
+			<point x="700.4722" y="533.3277" />
+			<point x="700.3560" y="515.4898" />
+			<point x="655.4387" y="515.5265" />
+		</points>
+	</zone>
+</zones>

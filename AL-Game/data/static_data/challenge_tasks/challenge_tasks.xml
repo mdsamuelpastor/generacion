@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<challenge_task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<task id="300" name="C300" type="LEGION" race="ELYOS" levels="5,6" repeat="true">
+		<lquests>
+			<lquest quest_id="17000" quest_repeat="6" score="81" />
+			<lquest quest_id="17001" quest_repeat="12" score="150" />
+			<lquest quest_id="17002" quest_repeat="42" score="174" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="2" item_id="186000199" count="46" />
+			<reward rank="2" no="3" item_id="186000199" count="23" />
+			<reward rank="3" no="4" item_id="186000199" count="17" />
+			<reward rank="4" no="150" item_id="186000199" count="2" />
+		</rewards>
+	</task>
+	<task id="301" name="C301" type="LEGION" race="ELYOS" levels="6,7" repeat="true" prev="300">
+		<lquests>
+			<lquest quest_id="17003" quest_repeat="12" score="111" />
+			<lquest quest_id="17004" quest_repeat="24" score="159" />
+			<lquest quest_id="17005" quest_repeat="84" score="720" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="3" item_id="186000199" count="68" />
+			<reward rank="2" no="4" item_id="186000199" count="38" />
+			<reward rank="3" no="5" item_id="186000199" count="30" />
+			<reward rank="4" no="180" item_id="186000199" count="5" />
+		</rewards>
+	</task>
+	<task id="302" name="C302" type="LEGION" race="ELYOS" levels="7,8" repeat="true" prev="301">
+		<lquests>
+			<lquest quest_id="17006" quest_repeat="24" score="150" />
+			<lquest quest_id="17007" quest_repeat="48" score="165" />
+			<lquest quest_id="17008" quest_repeat="168" score="720" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="4" item_id="186000199" count="106" />
+			<reward rank="2" no="5" item_id="186000199" count="64" />
+			<reward rank="3" no="6" item_id="186000199" count="53" />
+			<reward rank="4" no="210" item_id="186000199" count="11" />
+		</rewards>
+	</task>
+	<task id="303" name="C303" type="LEGION" race="ELYOS" levels="8,9" repeat="false" prev="302">
+		<lquests>
+			<lquest quest_id="17009" quest_repeat="12" score="150" />
+			<lquest quest_id="17010" quest_repeat="24" score="165" />
+			<lquest quest_id="17011" quest_repeat="168" score="180" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="4" item_id="186000147" count="6" />
+			<reward rank="2" no="6" item_id="188052427" count="1" />
+			<reward rank="3" no="12" item_id="167000518" count="5" />
+			<reward rank="4" no="240" item_id="186000199" count="9" />
+		</rewards>
+	</task>
+	<task id="304" name="C304" type="LEGION" race="ELYOS" levels="8,9" repeat="false" prev="302">
+		<lquests>
+			<lquest quest_id="17012" quest_repeat="84" score="30" />
+			<lquest quest_id="17013" quest_repeat="84" score="55" />
+			<lquest quest_id="17014" quest_repeat="84" score="60" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="4" item_id="186000147" count="10" />
+			<reward rank="2" no="6" item_id="188052426" count="1" />
+			<reward rank="3" no="12" item_id="188052428" count="1" />
+			<reward rank="4" no="240" item_id="186000199" count="17" />
+		</rewards>
+	</task>
+	<task id="305" name="C305" type="LEGION" race="ELYOS" levels="8,9" repeat="false" prev="302">
+		<lquests>
+			<lquest quest_id="17015" quest_repeat="24" score="1080" />
+			<lquest quest_id="17016" quest_repeat="24" score="1080" />
+			<lquest quest_id="17017" quest_repeat="24" score="1200" />
+			<lquest quest_id="17018" quest_repeat="48" score="1320" />
+			<lquest quest_id="17019" quest_repeat="96" score="1440" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="2" item_id="100001394" count="1" />
+			<reward rank="2" no="8" item_id="186000147" count="10" />
+			<reward rank="3" no="24" item_id="188052429" count="1" />
+			<reward rank="4" no="240" item_id="186000199" count="34" />
+		</rewards>
+	</task>
+	<task id="400" name="C400" type="LEGION" race="ASMODIANS" levels="5,6" repeat="true">
+		<lquests>
+			<lquest quest_id="27000" quest_repeat="6" score="81" />
+			<lquest quest_id="27001" quest_repeat="12" score="150" />
+			<lquest quest_id="27002" quest_repeat="42" score="174" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="2" item_id="186000199" count="46" />
+			<reward rank="2" no="3" item_id="186000199" count="23" />
+			<reward rank="3" no="4" item_id="186000199" count="17" />
+			<reward rank="4" no="150" item_id="186000199" count="2" />
+		</rewards>
+	</task>
+	<task id="401" name="C401" type="LEGION" race="ASMODIANS" levels="6,7" repeat="true" prev="400">
+		<lquests>
+			<lquest quest_id="27003" quest_repeat="12" score="111" />
+			<lquest quest_id="27004" quest_repeat="24" score="159" />
+			<lquest quest_id="27005" quest_repeat="84" score="720" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="3" item_id="186000199" count="68" />
+			<reward rank="2" no="4" item_id="186000199" count="38" />
+			<reward rank="3" no="5" item_id="186000199" count="30" />
+			<reward rank="4" no="180" item_id="186000199" count="5" />
+		</rewards>
+	</task>
+	<task id="402" name="C402" type="LEGION" race="ASMODIANS" levels="7,8" repeat="true" prev="401">
+		<lquests>
+			<lquest quest_id="27006" quest_repeat="24" score="150" />
+			<lquest quest_id="27007" quest_repeat="48" score="165" />
+			<lquest quest_id="27008" quest_repeat="168" score="720" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="4" item_id="186000199" count="106" />
+			<reward rank="2" no="5" item_id="186000199" count="64" />
+			<reward rank="3" no="6" item_id="186000199" count="53" />
+			<reward rank="4" no="210" item_id="186000199" count="11" />
+		</rewards>
+	</task>
+	<task id="403" name="C403" type="LEGION" race="ASMODIANS" levels="8,9" repeat="false" prev="402">
+		<lquests>
+			<lquest quest_id="27009" quest_repeat="12" score="150" />
+			<lquest quest_id="27010" quest_repeat="24" score="165" />
+			<lquest quest_id="27011" quest_repeat="168" score="180" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="4" item_id="186000147" count="6" />
+			<reward rank="2" no="6" item_id="188052427" count="1" />
+			<reward rank="3" no="12" item_id="167000518" count="5" />
+			<reward rank="4" no="240" item_id="186000199" count="9" />
+		</rewards>
+	</task>
+	<task id="404" name="C404" type="LEGION" race="ASMODIANS" levels="8,9" repeat="false" prev="402">
+		<lquests>
+			<lquest quest_id="27012" quest_repeat="84" score="30" />
+			<lquest quest_id="27013" quest_repeat="84" score="55" />
+			<lquest quest_id="27014" quest_repeat="84" score="60" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="4" item_id="186000147" count="10" />
+			<reward rank="2" no="6" item_id="188052426" count="1" />
+			<reward rank="3" no="12" item_id="188052428" count="1" />
+			<reward rank="4" no="240" item_id="186000199" count="17" />
+		</rewards>
+	</task>
+	<task id="405" name="C405" type="LEGION" race="ASMODIANS" levels="8,9" repeat="false" prev="402">
+		<lquests>
+			<lquest quest_id="27015" quest_repeat="24" score="1080" />
+			<lquest quest_id="27016" quest_repeat="24" score="1080" />
+			<lquest quest_id="27017" quest_repeat="24" score="1200" />
+			<lquest quest_id="27018" quest_repeat="48" score="1320" />
+			<lquest quest_id="27019" quest_repeat="96" score="1440" />
+		</lquests>
+		<rewards>
+			<reward rank="1" no="2" item_id="100001395" count="1" />
+			<reward rank="2" no="8" item_id="186000147" count="10" />
+			<reward rank="3" no="24" item_id="188052429" count="1" />
+			<reward rank="4" no="240" item_id="186000199" count="34" />
+		</rewards>
+	</task>
+	<task id="500" name="C500" type="TOWN" race="ELYOS" levels="1,2" repeat="true">
+		<lquests>
+			<lquest quest_id="17100" quest_repeat="10" score="1" />
+		</lquests>
+	</task>
+	<task id="501" name="C501" type="TOWN" race="ELYOS" levels="2,3" repeat="true">
+		<lquests>
+			<lquest quest_id="17101" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="502" name="C502" type="TOWN" race="ELYOS" levels="3,4" repeat="true">
+		<lquests>
+			<lquest quest_id="17102" quest_repeat="30" score="1" />
+		</lquests>
+	</task>
+	<task id="503" name="C503" type="TOWN" race="ELYOS" levels="4,5" repeat="true">
+		<lquests>
+			<lquest quest_id="17103" quest_repeat="40" score="1" />
+			<lquest quest_id="17104" quest_repeat="1" score="1" />
+		</lquests>
+	</task>
+	<task id="504" name="C504" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17105" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="505" name="C505" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17106" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="506" name="C506" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17107" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="507" name="C507" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17108" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="508" name="C508" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17109" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="509" name="C509" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17110" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="510" name="C510" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17111" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="511" name="C511" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17112" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="512" name="C512" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17113" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="513" name="C513" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17114" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="514" name="C514" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17115" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="515" name="C515" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17116" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="516" name="C516" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17117" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="517" name="C517" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17118" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="518" name="C518" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17119" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="519" name="C519" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17120" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="520" name="C520" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17121" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="521" name="C521" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17122" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="522" name="C522" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17123" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="523" name="C523" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17124" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="524" name="C524" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17125" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="525" name="C525" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17126" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="526" name="C526" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17127" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="527" name="C527" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17128" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="528" name="C528" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17129" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="529" name="C529" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17130" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="530" name="C530" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17131" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="531" name="C531" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17132" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="532" name="C532" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17133" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="533" name="C533" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17134" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="534" name="C534" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17135" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="535" name="C535" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17136" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="536" name="C536" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17137" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="537" name="C537" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17138" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="538" name="C538" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17139" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="539" name="C539" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17140" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="540" name="C540" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17141" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="541" name="C541" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17142" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="542" name="C542" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17143" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="543" name="C543" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17144" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="544" name="C544" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17145" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="545" name="C545" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17146" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="546" name="C546" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17147" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="547" name="C547" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17148" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="548" name="C548" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17149" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="549" name="C549" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17150" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="550" name="C550" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17151" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="551" name="C551" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17152" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="552" name="C552" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17153" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="553" name="C553" type="TOWN" race="ELYOS" levels="5,6" repeat="false" prev="503">
+		<lquests>
+			<lquest quest_id="17154" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="600" name="C600" type="TOWN" race="ASMODIANS" levels="1,2" repeat="true">
+		<lquests>
+			<lquest quest_id="27100" quest_repeat="10" score="1" />
+		</lquests>
+	</task>
+	<task id="601" name="C601" type="TOWN" race="ASMODIANS" levels="2,3" repeat="true" prev="600">
+		<lquests>
+			<lquest quest_id="27101" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="602" name="C602" type="TOWN" race="ASMODIANS" levels="3,4" repeat="true" prev="601">
+		<lquests>
+			<lquest quest_id="27102" quest_repeat="30" score="1" />
+		</lquests>
+	</task>
+	<task id="603" name="C603" type="TOWN" race="ASMODIANS" levels="4,5" repeat="true" prev="602">
+		<lquests>
+			<lquest quest_id="27103" quest_repeat="40" score="1" />
+			<lquest quest_id="27104" quest_repeat="1" score="1" />
+		</lquests>
+	</task>
+	<task id="604" name="C604" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27105" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="605" name="C605" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27106" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="606" name="C606" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27107" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="607" name="C607" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27108" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="608" name="C608" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27109" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="609" name="C609" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27110" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="610" name="C610" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27111" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="611" name="C611" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27112" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="612" name="C612" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27113" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="613" name="C613" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27114" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="614" name="C614" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27115" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="615" name="C615" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27116" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="616" name="C616" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27117" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="617" name="C617" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27118" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="618" name="C618" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27119" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="619" name="C619" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27120" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="620" name="C620" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27121" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="621" name="C621" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27122" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="622" name="C622" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27123" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="623" name="C623" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27124" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="624" name="C624" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27125" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="625" name="C625" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27126" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="626" name="C626" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27127" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="627" name="C627" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27128" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="628" name="C628" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27129" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="629" name="C629" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27130" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="630" name="C630" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27131" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="631" name="C631" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27132" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="632" name="C632" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27133" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="633" name="C633" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27134" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="634" name="C634" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27135" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="635" name="C635" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27136" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="636" name="C636" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27137" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="637" name="C637" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27138" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="638" name="C638" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27139" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="639" name="C639" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27140" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="640" name="C640" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27141" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="641" name="C641" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27142" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="642" name="C642" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27143" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="643" name="C643" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27144" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="644" name="C644" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27145" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="645" name="C645" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27146" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="646" name="C646" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27147" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="647" name="C647" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27148" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="648" name="C648" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27149" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="649" name="C649" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27150" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="650" name="C650" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27151" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="651" name="C651" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27152" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="652" name="C652" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27153" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+	<task id="653" name="C653" type="TOWN" race="ASMODIANS" levels="5,6" repeat="false" prev="603">
+		<lquests>
+			<lquest quest_id="27154" quest_repeat="20" score="1" />
+		</lquests>
+	</task>
+</challenge_task>

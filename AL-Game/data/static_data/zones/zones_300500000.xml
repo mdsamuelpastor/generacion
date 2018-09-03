@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+    <zone name="IDTiamat_Israphel_SZ_All" priority="16" mapid="300500000" area_type="POLYGON" zone_type="SUB" flags="6">
+    <points bottom="100.000000" top="200.000000">
+			<point x="200.000000" y="195.000000" />
+			<point x="200.000000" y="295.000000" />
+			<point x="300.000000" y="295.000000" />
+			<point x="300.000000" y="195.000000" />
+     </points>
+    </zone>
+</zones>

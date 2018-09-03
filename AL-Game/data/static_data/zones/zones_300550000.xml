@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+	<zone mapid="300550000" name="SZ_IDArena_Glory_S5" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="84.107422" y="858.967041"/>
+            <point x="811.468933" y="864.335388"/>
+            <point x="817.735413" y="1393.005005"/>
+            <point x="83.237000" y="1393.921387"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="SZ_IDArena_Glory_S1" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="1265.725586" y="1535.142212"/>
+            <point x="2067.849365" y="1526.248047"/>
+            <point x="2065.735840" y="2024.330200"/>
+            <point x="1278.493164" y="2021.407349"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="SZ_IDArena_Glory_S3" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="1285.971436" y="-119.983566"/>
+            <point x="2093.685059" y="-105.243515"/>
+            <point x="2062.478027" y="576.460022"/>
+            <point x="1247.596924" y="575.523376"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="SZ_IDArena_Glory_S2" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="1253.492432" y="774.485962"/>
+            <point x="2188.619629" y="771.420044"/>
+            <point x="2191.685791" y="1445.937988"/>
+            <point x="1250.426270" y="1427.541992"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="SZ_IDArena_Glory_S4" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="88.281006" y="1564.393188"/>
+            <point x="1008.445007" y="1557.845825"/>
+            <point x="1008.961182" y="2033.756958"/>
+            <point x="88.811584" y="2035.494507"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="SZ_IDArena_Glory_S6" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="15.807068" y="-9.011040"/>
+            <point x="954.309204" y="-0.346245"/>
+            <point x="918.618958" y="673.755920"/>
+            <point x="16.637421" y="659.588440"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="STAGE_05_01" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="419.519318" y="1060.432495"/>
+            <point x="575.317261" y="1060.081787"/>
+            <point x="575.742920" y="1215.668213"/>
+            <point x="413.923859" y="1216.639160"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="STAGE_04_01" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="591.292664" y="1766.809692"/>
+            <point x="749.934021" y="1764.725220"/>
+            <point x="749.425659" y="1883.435913"/>
+            <point x="591.041809" y="1882.809448"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="STAGE_03_01" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="1569.082642" y="208.122986"/>
+            <point x="1658.284424" y="204.834900"/>
+            <point x="1665.881592" y="312.944214"/>
+            <point x="1565.759888" y="307.743164"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="NoticeFlyingArea_01" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="602.382507" y="1751.207642"/>
+            <point x="600.594849" y="1883.415527"/>
+            <point x="770.945740" y="1887.930786"/>
+            <point x="771.294006" y="1751.097046"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="STAGE_01_01" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="1615.994751" y="1581.775757"/>
+            <point x="1925.814697" y="1583.415894"/>
+            <point x="1932.212769" y="1919.432129"/>
+            <point x="1620.611450" y="1882.180176"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="STAGE_02_01" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="1825.987183" y="1081.290283"/>
+            <point x="1898.121826" y="1081.246216"/>
+            <point x="1896.994385" y="1182.606079"/>
+            <point x="1823.974243" y="1184.744507"/>
+		</points>
+	</zone>
+	<zone mapid="300550000" name="STAGE_06_01" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="418.246887" y="307.447723"/>
+            <point x="578.533630" y="304.099762"/>
+            <point x="577.724243" y="467.128357"/>
+            <point x="421.959442" y="467.612030"/>
+		</points>
+	</zone>
+</zones>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siege_schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="siege_schedule.xsd">
+	<!-- This is retail siege schedule 3.9, you can modify like you want with cron system -->
+	<!-- Siel's Western -->
+	<fortress id="1131">
+		<siegeTime>0 0 23 ? * SAT</siegeTime> <!-- 3.9 -->
+	</fortress>
+	<!-- Siel's Eastearn -->
+	<fortress id="1132">
+		<siegeTime>0 0 23 ? * SAT</siegeTime> <!-- 3.9 -->
+	</fortress>
+	<!-- Sulfur -->
+	<fortress id="1141">
+		<siegeTime>0 0 23 ? * SAT</siegeTime> <!-- 3.9 -->
+	</fortress>
+	<!-- Divine Fortress -->
+	<fortress id="1011">
+		<siegeTime>0 0 21 ? * SAT</siegeTime> <!-- 3.9 -->
+	</fortress>
+	<!-- Roah -->
+	<fortress id="1211">
+		<siegeTime>0 0 11 ? * SAT</siegeTime>  <!-- 3.9 -->
+	</fortress>
+	<!-- Krotan -->
+	<fortress id="1221">
+		<siegeTime>0 0 11 ? * SUN</siegeTime>  <!-- 3.9 -->
+	</fortress>
+	<!-- Kysis -->
+	<fortress id="1231">
+		<siegeTime>0 0 11 ? * SUN</siegeTime>  <!-- 3.9 -->
+	</fortress>
+	<!-- Miren -->
+	<fortress id="1241">
+		<siegeTime>0 0 11 ? * SUN</siegeTime>  <!-- 3.9 -->
+	</fortress>
+	<!-- Asteria -->
+	<fortress id="1251">
+		<siegeTime>0 0 11 ? * SUN</siegeTime>  <!-- 3.9 -->
+	</fortress>
+	<!-- Temple Of Scales -->
+	<fortress id="2011">
+		<siegeTime>0 0 21 ? * MON,WED,SUN</siegeTime> <!-- 3.9 -->
+		<siegeTime>0 0 10 ? * THU,SAT</siegeTime>
+	</fortress>
+	<!-- Altar Of Avarice -->
+	<fortress id="2021">
+		<siegeTime>0 0 21 ? * TUE,WED,SUN</siegeTime> <!-- 3.9 -->
+		<siegeTime>0 0 10 ? * FRI,SAT</siegeTime>
+	</fortress>
+	<!-- Vorgaltem Citadel -->
+	<fortress id="3011">
+		<siegeTime>0 0 21 ? * MON,WED,SUN</siegeTime> <!-- 3.9 -->
+		<siegeTime>0 0 10 ? * THU,SAT</siegeTime>
+	</fortress>
+	<!-- Crimson Temple -->
+	<fortress id="3021">
+		<siegeTime>0 0 21 ? * TUE,WED,SUN</siegeTime> <!-- 3.9 -->
+		<siegeTime>0 0 10 ? * FRI,SAT</siegeTime>
+	</fortress>
+	<!-- Heart of fissure -->
+	<source id="4011">
+		<siegeTime>0 55 13 ? * *</siegeTime>
+		<siegeTime>0 55 17 ? * *</siegeTime>
+		<siegeTime>0 55 21 ? * *</siegeTime>
+	</source>
+	<!-- Heart of Gravity -->
+	<source id="4021">
+		<siegeTime>0 55 13 ? * *</siegeTime>
+		<siegeTime>0 55 17 ? * *</siegeTime>
+		<siegeTime>0 55 21 ? * *</siegeTime>
+	</source>
+	<!-- Heart of Wrath -->
+	<source id="4031">
+		<siegeTime>0 55 13 ? * *</siegeTime>
+		<siegeTime>0 55 17 ? * *</siegeTime>
+		<siegeTime>0 55 21 ? * *</siegeTime>
+	</source>
+	<!-- Heart of Petrification -->
+	<source id="4041">
+		<siegeTime>0 55 13 ? * *</siegeTime>
+		<siegeTime>0 55 17 ? * *</siegeTime>
+		<siegeTime>0 55 21 ? * *</siegeTime>
+	</source>
+	<!-- Fortress 4.0 -->
+	<!-- Silus Fortress (Northern Katalam) -->
+	<fortress id="5011">
+		<siegeTime>0 0 22 ? * *</siegeTime>
+	</fortress>
+	<!-- Bassen Fortress (Southern Katalam) -->
+	<fortress id="6011">
+		<siegeTime>0 0 22 ? * *</siegeTime>
+	</fortress>
+	<!-- Pradeth Fortress (Southern Katalam) -->
+	<fortress id="6021">
+		<siegeTime>0 0 22 ? * *</siegeTime>
+	</fortress>
+</siege_schedule>

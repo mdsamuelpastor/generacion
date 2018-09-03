@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+	<spawn_map map_id="220070000">
+		<!-- Rift -->
+		<spawn npc_id="700137" handler="RIFT">
+			<!-- Master -->
+			<spot x="2264.4" y="1747.8" z="390" anchor="GELKMAROS_AM"/> <!-- INGGISON_AS -->
+			<spot x="624.5" y="2261.7" z="394" anchor="GELKMAROS_BM"/> <!-- INGGISON_BS -->
+			<spot x="1024.32" y="1761" z="353" anchor="GELKMAROS_CM"/> <!-- INGGISON_CS -->
+			<!-- Slave -->
+			<spot x="103.3" y="1908.3" z="402" anchor="GELKMAROS_AS"/> <!-- INGGISON_AM -->
+			<spot x="655.9" y="1525.9" z="280" anchor="GELKMAROS_BS"/> <!-- INGGISON_BM -->
+			<spot x="2139.9" y="1241.4" z="347" anchor="GELKMAROS_CS"/> <!-- INGGISON_CM -->
+		</spawn>
+	</spawn_map>
+</spawns>

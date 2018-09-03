@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns>
+<spawn_map map_id="301040000">
+<!-- Parsed by Sharlatan (NextGenCore 2013) -->
+        <spawn npc_id="230707" respawn_time="295">
+            <spot x="302.91647" y="526.0152" z="951.07312" h="61"/>
+			<spot x="284.83957" y="487.15268" z="951.07312" h="31"/>
+			<spot x="288.55197" y="537.05957" z="954.83002" h="90"/>
+        </spawn>
+        <spawn npc_id="231471" respawn_time="295">
+            <spot x="527.43494" y="496.47614" z="959.58429" h="0"/>
+        </spawn>
+        <spawn npc_id="230671" respawn_time="295">
+            <spot x="466.43707" y="514.41882" z="960.31348" h="90"/>
+        </spawn>
+        <spawn npc_id="230679" respawn_time="295">
+            <spot x="317.55762" y="607.60449" z="954.38794" h="0"/>
+        </spawn>
+        <spawn npc_id="230696" respawn_time="295">
+            <spot x="297.62915" y="593.27203" z="952.8562" h="0"/>
+			<spot x="430.76135" y="551.08856" z="949.01184" h="0"/>
+			<spot x="463.07178" y="449.56625" z="949.00464" h="0"/>
+			<spot x="395.95135" y="497.74359" z="944.87561" h="0"/>
+			<spot x="405.62332" y="587.3139" z="949.01184" h="0"/>
+        </spawn>
+        <spawn npc_id="230677" respawn_time="295">
+            <spot x="387.47101" y="560.11945" z="948.42651" h="61"/>
+        </spawn>
+        <spawn npc_id="230710" respawn_time="295">
+            <spot x="302.58414" y="485.24304" z="950.63123" h="0"/>
+			<spot x="261.39987" y="528.6391" z="948.97882" h="0"/>
+			<spot x="275.47214" y="519.9256" z="950.63123" h="0"/>
+        </spawn>
+        <spawn npc_id="230712" respawn_time="295">
+            <spot x="279.87296" y="501.50256" z="952.87354" h="61"/>
+        </spawn>
+        <spawn npc_id="231436" respawn_time="295">
+            <spot x="397.77011" y="514.54169" z="945.40594" h="31"/>
+        </spawn>
+        <spawn npc_id="701827" respawn_time="295">
+            <spot x="496.77332" y="551.0437" z="958.52185" h="0"/>
+        </spawn>
+        <spawn npc_id="230692" respawn_time="295">
+            <spot x="498.34656" y="536.02765" z="952.70013" h="80"/>
+			<spot x="396.3941" y="571.328" z="948.69849" h="105"/>
+        </spawn>
+        <spawn npc_id="230711" respawn_time="295">
+            <spot x="260.12302" y="519.61871" z="948.97882" h="0"/>
+			<spot x="302.4848" y="508.7377" z="950.76355" h="61"/>
+        </spawn>
+        <spawn npc_id="230681" respawn_time="295">
+            <spot x="304.27859" y="591.6192" z="955.15869" h="45"/>
+        </spawn>
+        <spawn npc_id="801333" respawn_time="295">
+            <spot x="656.28876" y="537.38428" z="937.89954" h="0"/>
+        </spawn>
+        <spawn npc_id="230685" respawn_time="295">
+            <spot x="614.9953" y="522.19196" z="944.55188" h="0"/>
+        </spawn>
+        <spawn npc_id="231443" respawn_time="295">
+            <spot x="515.72198" y="527.22858" z="953.22864" h="51"/>
+        </spawn>
+</spawn_map>
+</spawns>

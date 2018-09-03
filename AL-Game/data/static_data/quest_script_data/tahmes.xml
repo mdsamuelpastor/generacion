@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+            [BEGIN] SUMMARY
+                    28701 [XML] Seismoracle
+                    28702 [XML] Atheno-what?
+                    28704 [XML] Freedom to Kill
+                    28705 [XML] Ghosts in a Room
+                    28706 [TODO] Becoming a Guardian
+                    28707 [XML] The Tahmes Sickness
+                    28708 [TODO] Sealed Proof
+                    28709 [TODO] Loyal Krall Hero
+                    28710 [SCRIPT] Scaling Rewards
+                    28711 [TODO] Crazy Raksha
+                    28712 [TODO] A Secret Legion
+                    29701 [TODO] Imminent Collapse
+                    29702 [TODO] Drana Destruction
+                    29704 [TODO] Ghostly Rumors
+                    29705 [TODO] Into the Breach
+                    29706 [TODO] All-time Truth
+                    29707 [TODO] Tahmes Oil Sales-shugo
+                    29708 [TODO] Proof of Sealing
+                    29709 [TODO] Pride of the Krall
+                    29711 [TODO] Maddening Plan
+                    29712 [TODO] Strategic Voice
+            [END] SUMMARY
+    -->
+    <!-- REPORTING QUESTS -->
+    <!-- COLLECTING QUESTS -->
+    <item_collecting id="28707" start_npc_ids="799266"/>
+    <!-- HUNTING QUESTS -->
+    <monster_hunt id="28701" start_npc_ids="799434" >
+        <monster npc_ids="217651" var="0" end_var="20"/>
+    </monster_hunt>
+    <monster_hunt  id="28702" start_npc_ids="799434">
+        <monster npc_ids="217651" var="0" end_var="20"/>
+    </monster_hunt>
+    <monster_hunt id="28704" start_npc_ids="799437">
+        <monster npc_ids="217415" var="0" end_var="20"/>
+    </monster_hunt>
+    <monster_hunt id="28705" start_npc_ids="799437" >
+        <monster npc_ids="217415" var="0" end_var="20"/>
+    </monster_hunt>
+</quest_scripts>

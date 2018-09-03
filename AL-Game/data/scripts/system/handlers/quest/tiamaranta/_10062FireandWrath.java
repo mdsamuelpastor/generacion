@@ -1,0 +1,140 @@
+/*
+ * This file is part of NextGenCore <Ver:3.7>.
+ *
+ *  NextGenCore is free software: you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  NextGenCore is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with NextGenCore. If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+package quest.tiamaranta;
+
+import com.aionemu.gameserver.model.gameobjects.Npc;
+import com.aionemu.gameserver.model.gameobjects.player.Player;
+import com.aionemu.gameserver.questEngine.handlers.QuestHandler;
+import com.aionemu.gameserver.questEngine.model.QuestDialog;
+import com.aionemu.gameserver.questEngine.model.QuestEnv;
+import com.aionemu.gameserver.questEngine.model.QuestState;
+import com.aionemu.gameserver.questEngine.model.QuestStatus;
+import com.aionemu.gameserver.services.QuestService;
+import com.aionemu.gameserver.services.item.ItemService;
+import com.aionemu.gameserver.world.zone.ZoneName;
+
+/**
+ * @author Pralinka
+ */
+public class _10062FireandWrath extends QuestHandler {
+
+	private final static int questId = 10062;
+
+	public _10062FireandWrath() {
+		super(questId);
+	}
+
+	@Override
+	public void register() {
+		qe.registerQuestNpc(205886).addOnQuestStart(questId);
+		qe.registerQuestNpc(205886).addOnTalkEvent(questId);
+		qe.registerQuestNpc(800018).addOnTalkEvent(questId);
+		qe.registerQuestNpc(218766).addOnKillEvent(questId);
+		qe.registerGetingItem(182212556, questId);
+		qe.registerOnEnterZone(ZoneName.get("WRATH_VENT_600030000"), questId);
+		qe.registerOnEnterWorld(questId);
+		qe.registerOnLevelUp(questId);
+	}
+	
+	@Override
+	public boolean onLvlUpEvent(QuestEnv env) {
+		int[] quests = { 10061 };
+		return defaultOnLvlUpEvent(env, quests, true);
+	}
+	
+	@Override
+	public boolean onEnterWorldEvent(QuestEnv env) {
+		Player player = env.getPlayer();
+		QuestState qs = player.getQuestStateList().getQuestState(questId);
+		if (qs == null || qs.getStatus() == QuestStatus.NONE) {
+			return QuestService.startQuest(env);
+		}
+		return false;
+	}
+
+	@Override
+	public boolean onDialogEvent(QuestEnv env) {
+		Player player = env.getPlayer();
+		QuestState qs = player.getQuestStateList().getQuestState(questId);
+		QuestDialog dialog = env.getDialog();
+		int targetId = env.getTargetId();
+		if (qs == null)
+			return false;
+		if (qs.getStatus() == QuestStatus.START) {
+			if (targetId == 205886) {
+				switch (dialog) {
+					case START_DIALOG:
+						return sendQuestDialog(env, 1011);
+					case SELECT_ACTION_1012:
+						return sendQuestDialog(env, 1012);
+					case STEP_TO_1:
+						return defaultCloseDialog(env, 0, 1);
+				}
+			}
+		}
+		else if (qs.getStatus() == QuestStatus.REWARD) {
+			if (targetId == 800018) {
+				if (dialog == QuestDialog.USE_OBJECT) {
+					return sendQuestDialog(env, 10002);
+				}
+				else {
+					return sendQuestEndDialog(env);
+				}
+			}
+		}
+		return false;
+	}
+
+	@Override
+	public boolean onEnterZoneEvent(QuestEnv env, ZoneName zoneName) {
+		if (zoneName == ZoneName.get("WRATH_VENT_600030000")) {
+			Player player = env.getPlayer();
+			if (player == null)
+				return false;
+			QuestState qs = player.getQuestStateList().getQuestState(questId);
+			if (qs != null && qs.getStatus() == QuestStatus.START) {
+				int var = qs.getQuestVarById(0);
+				if (var == 1) {
+					changeQuestStep(env, 1, 2, false);
+					return true;
+				}
+			}
+		}
+		return false;
+	}
+
+	public boolean onKillEvent(QuestEnv env) {
+		Player player = env.getPlayer();
+		QuestState qs = player.getQuestStateList().getQuestState(questId);
+		if (qs == null || qs.getStatus() != QuestStatus.START && qs.getQuestVarById(0) != 2)
+			return false;
+		int targetId = 0;		
+		if (env.getVisibleObject() instanceof Npc)
+			targetId = ((Npc) env.getVisibleObject()).getNpcId();
+		if (targetId == 218766) {
+			changeQuestStep(env, 2, 3, false);
+		}
+		QuestService.addNewSpawn(600030000, player.getInstanceId(), 701136, 1306.04f, 2492.976f, 245.439f, (byte) 76);
+		return false;
+	}
+
+	@Override
+	public boolean onGetItemEvent(QuestEnv env) {
+		return defaultOnGetItemEvent(env, 3, 3, true);
+	}
+}

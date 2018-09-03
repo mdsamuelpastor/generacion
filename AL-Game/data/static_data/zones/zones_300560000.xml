@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+	<zone mapid="300560000" name="IDDF2Flying_event01_Subzone_E" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="97.532593" y="169.987000"/>
+            <point x="110.220329" y="338.977051"/>
+            <point x="283.630646" y="326.110291"/>
+            <point x="260.604736" y="153.948135"/>
+		</points>
+	</zone>
+	<zone mapid="300560000" name="IDDF2Flying_event01_Subzone_B" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="64.414337" y="18.325977"/>
+            <point x="66.677917" y="90.075058"/>
+            <point x="140.835876" y="87.440323"/>
+            <point x="136.122894" y="10.108356"/>
+		</points>
+	</zone>
+	<zone mapid="300560000" name="IDDF2Flying_event01_Subzone_C" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="349.116394" y="358.143951"/>
+            <point x="368.465851" y="476.949249"/>
+            <point x="490.359009" y="463.638367"/>
+            <point x="468.665466" y="331.002258"/>
+		</points>
+	</zone>
+	<zone mapid="300560000" name="IDDF2Flying_event01_Subzone_D" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="355.722137" y="43.471298"/>
+            <point x="375.071594" y="162.276596"/>
+            <point x="496.964752" y="148.965729"/>
+            <point x="475.271210" y="16.329605"/>
+		</points>
+	</zone>
+	<zone mapid="300560000" name="IDDF2Flying_event01_Subzone_A" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+		<points bottom="0.1" top="500.1">
+            <point x="295.293549" y="394.077698"/>
+            <point x="297.557129" y="465.826782"/>
+            <point x="371.715088" y="463.192047"/>
+            <point x="367.002106" y="385.860077"/>
+		</points>
+	</zone>
+</zones>

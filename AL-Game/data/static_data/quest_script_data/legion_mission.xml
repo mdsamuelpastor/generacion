@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+ 	<!-- [Group] Guardian Deity General Of The Nochsana Training Camp (Elyos Only) -->
+	<monster_hunt id="17000" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="256693"/>
+	</monster_hunt>
+	<!-- [Group] Anuhart Attack (Elyos Only) -->
+	<monster_hunt id="17001" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="212211"/>
+	</monster_hunt>
+	<!-- [Group] Raksha's Arrogance (Elyos Only) -->
+	<monster_hunt id="17002" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="217647"/>
+	</monster_hunt>
+	<!-- [Group] Run Off With Kromede (Elyos Only) -->
+	<monster_hunt id="17003" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="212846 214621"/>
+	</monster_hunt>
+	<!-- [Group] Temple Of The Ferocious Ruler (Elyos Only) -->
+	<monster_hunt id="17004" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="215783"/>
+	</monster_hunt>
+	<!-- [Alliance] Zadra's Darkness (Elyos Only) -->
+	<monster_hunt id="17005" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="217240 217241 217242"/>
+	</monster_hunt>
+	<!-- [Group] Surrender Of The Adma Stronghold (Elyos Only) -->
+	<monster_hunt id="17006" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="214696"/>
+	</monster_hunt>
+	<!-- [Group] Underground Great Blacksmith (Elyos Only) -->
+	<monster_hunt id="17007" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="281419"/>
+	</monster_hunt>
+	<!-- [Alliance] Sand Lord's Oppression (Elyos Only) -->
+	<monster_hunt id="17008" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="218782"/>
+	</monster_hunt>
+	<!-- [Group] Bakarma's Bad Reputation (Elyos Only) -->
+	<monster_hunt id="17009" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="213780"/>
+	</monster_hunt>
+	<!-- [Group] Demise Of The Sealed Temple (Elyos Only) -->
+	<monster_hunt id="17010" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="216183"/>
+	</monster_hunt>
+	<!-- [Group] Brigade General Of The Rentus Base (Elyos Only) -->
+	<monster_hunt id="17011" start_npc_ids="0" end_npc_ids="800447">
+		<monster end_var="1" var="0" npc_ids="217313"/>
+	</monster_hunt>
+	<!-- [Daily] Fierce Fight In The Abyss (Elyos Only) --><!-- Need Script -->
+	<item_collecting id="17012" start_npc_ids="205232"/>
+	<!-- [Daily] Fierce Fight In Balaurea (Elyos Only) --><!-- Need Script -->
+	<item_collecting id="17013" start_npc_ids="205232"/>
+	<!-- [Daily] Duel With The Asmodians (Elyos Only) --><!-- Need Script -->
+	<item_collecting id="17014" start_npc_ids="205232"/>
+	<!-- [League] Fierce Fight In The Base Of The Abyss (Elyos Only) -->
+	<monster_hunt id="17015" start_npc_ids="0" end_npc_ids="800446">
+		<monster end_var="1" var="0" npc_ids="264514 263015 263313"/>
+	</monster_hunt>
+	<!-- [League] Fierce Fight In The Top Of The Abyss (Elyos Only) -->
+	<monster_hunt id="17016" start_npc_ids="0" end_npc_ids="800446">
+		<monster end_var="1" var="0" npc_ids="269014 267814 269914 266313 270815"/>
+	</monster_hunt>
+	<!-- [League] Guardian Deity General Of The Core Of The Abyss (Elyos Only) -->
+	<monster_hunt id="17017" start_npc_ids="0" end_npc_ids="800446">
+		<monster end_var="1" var="0" npc_ids="260013"/>
+	</monster_hunt>
+	<!-- [League] Inggison Fortress Operation (Elyos Only) -->
+	<item_collecting id="17018" start_npc_ids="205232"/>
+	<!-- [League] Duel With The Alter Ego (Elyos Only) -->
+	<item_collecting id="17019" start_npc_ids="205232"/>
+	
+	
+	<!-- [Group] Guardian Deity General Of The Nochsana Training Camp (Asmodians Only) -->
+	<monster_hunt id="27000" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="256693"/>
+	</monster_hunt>
+	<!-- Group] Esras' Fate (Asmodians Only) -->
+	<monster_hunt id="27001" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="214028"/>
+	</monster_hunt>
+	<!-- [Group] Raksha's Arrogance (Asmodians Only) -->
+	<monster_hunt id="27002" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="217647"/>
+	</monster_hunt>
+	<!-- [Group] Run Off With Kromede (Asmodians Only) -->
+	<monster_hunt id="27003" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="212846 214621"/>
+	</monster_hunt>
+	<!-- [Group] Temple Of The Ferocious Ruler (Asmodians Only) -->
+	<monster_hunt id="27004" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="215783"/>
+	</monster_hunt>
+	<!-- [Alliance] Zadra's Darkness (Asmodians Only) -->
+	<monster_hunt id="27005" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="217240 217241 217242"/>
+	</monster_hunt>
+	<!-- [Group] Surrender Of The Adma Stronghold (Asmodians Only) -->
+	<monster_hunt id="27006" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="214669"/>
+	</monster_hunt>
+	<!-- [Group] Underground Great Blacksmith (Asmodians Only) -->
+	<monster_hunt id="27007" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="281419"/>
+	</monster_hunt>
+	<!-- [Alliance] Sand Lord's Oppression (Asmodians Only) -->
+	<monster_hunt id="27008" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="218782"/>
+	</monster_hunt>
+	<!-- [Group] Bakarma's Bad Reputation (Asmodians Only) -->
+	<monster_hunt id="27009" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="213780"/>
+	</monster_hunt>
+	<!-- [Group] Demise Of The Sealed Temple (Asmodians Only) -->
+	<monster_hunt id="27010" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="216183"/>
+	</monster_hunt>
+	<!-- [Group] Brigade General Of The Rentus Base (Asmodians Only) -->
+	<monster_hunt id="27011" start_npc_ids="0" end_npc_ids="800452">
+		<monster end_var="1" var="0" npc_ids="217313"/>
+	</monster_hunt>
+	<!-- [Daily] Fierce Fight In The Abyss (Asmodians Only) --><!-- Need Script -->
+	<item_collecting id="27012" start_npc_ids="205232"/>
+	<!-- [Daily] Fierce Fight In Balaurea (Asmodians Only) --><!-- Need Script -->
+	<item_collecting id="27013" start_npc_ids="205232"/>
+	<!-- [Daily] Duel With The Asmodians (Asmodians Only) --><!-- Need Script -->
+	<item_collecting id="27014" start_npc_ids="205232"/>
+	<!-- [League] Fierce Fight In The Base Of The Abyss (Asmodians Only) -->
+	<monster_hunt id="27015" start_npc_ids="0" end_npc_ids="800451">
+		<monster end_var="1" var="0" npc_ids="264514 263015 263313"/>
+	</monster_hunt>
+	<!-- [League] Fierce Fight In The Top Of The Abyss (Asmodians Only) -->
+	<monster_hunt id="27016" start_npc_ids="0" end_npc_ids="800451">
+		<monster end_var="1" var="0" npc_ids="269014 267814 269914 266313 270815"/>
+	</monster_hunt>
+	<!-- [League] Guardian Deity General Of The Core Of The Abyss (Asmodians Only) -->
+	<monster_hunt id="27017" start_npc_ids="0" end_npc_ids="800451">
+		<monster end_var="1" var="0" npc_ids="260013"/>
+	</monster_hunt>
+	<!-- [League] Inggison Fortress Operation (Asmodians Only) -->
+	<item_collecting id="27018" start_npc_ids="205232"/>
+	<!-- [League] Duel With The Alter Ego (Asmodians Only) -->
+	<item_collecting id="27019" start_npc_ids="205232"/>
+</quest_scripts>

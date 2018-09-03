@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<events_config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="events_config.xsd">
+    <active>The Fortune Fayre;Doppelgangers;Ascension Energy;Solorius Festival;Harvest Revel;Daru Days;Ardent heat;Ascension Energy Inventory;Ardent heat Inventory;Valentine's Day;Shugo Merchants 02;Shugo Merchants 03;Shugo Merchants 05;Shugo Merchants 06;Shugo Merchants 08;Shugo Merchants 09;Shugo Merchants 11;Shugo Merchants 12;</active>
+    <events>
+        <event name="The Fortune Fayre" start="2013-03-09T00:00:00+00:00" end="2013-03-23T00:00:00+00:00">
+            <quests>
+                <startable>80028;80029;80031;80032</startable>
+                <maintainable>80030;80033;80034;80035;80036;80037;80038;80039</maintainable>
+            </quests>
+            <spawns>
+                <!-- Sanctum -->
+                <spawn_map map_id="110010000">
+                    <!-- Tirrian -->
+                    <spawn npc_id="799765" pool="1" respawn_time="295">
+                        <spot x="1551.3645" y="1472.868" z="573.0145" h="115" />
+                    </spawn>
+                    <!-- Thourak -->
+                    <spawn npc_id="799766" pool="1" respawn_time="295">
+                        <spot x="1550.9011" y="1470.6844" z="573.02454" h="115" />
+                    </spawn>
+                </spawn_map>
+                <!-- Pandaemonium -->
+                <spawn_map map_id="120010000">
+                    <!-- Druike -->
+                    <spawn npc_id="799780" pool="1" respawn_time="295">
+                        <spot x="1182.7379" y="1351.888" z="209.6744" h="61" />
+                    </spawn>
+                    <!-- Metrano -->
+                    <spawn npc_id="799781" pool="1" respawn_time="295">
+                        <spot x="1181.7347" y="1354.239" z="209.6744" h="65" />
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Doppelgangers" start="2013-01-01T00:00:00+02:00" end="2013-01-30T00:00:00+02:00">
+            <spawns>
+                <!-- Verteron -->
+                <spawn_map map_id="210030000">
+                    <!-- Laylin -->
+                    <spawn npc_id="799702" pool="1" respawn_time="295">
+                        <spot x="1645.45" y="1498.74" z="119.717" h="49" />
+                    </spawn>
+                </spawn_map>
+                <!-- Altgard -->
+                <spawn_map map_id="220030000">
+                    <!-- Ronya -->
+                    <spawn npc_id="799703" pool="1" respawn_time="295">
+                        <spot x="1749.65" y="1808.09" z="254.487" h="108" />
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Ascension Energy Inventory" start="2013-09-21T00:00:00+00:00" end="2013-10-26T00:00:00+00:00">
+            <inventory_drop startlevel="8" interval="15">186000127</inventory_drop>
+        </event>
+        <event name="Ascension Energy" start="2013-09-21T00:00:00+00:00" end="2013-10-26T00:00:00+00:00">
+            <spawns>
+                <!-- Sanctum -->
+                <spawn_map map_id="110010000">
+                    <!-- <Daeva's Day Cake> -->
+                    <spawn npc_id="700585" pool="1" respawn_time="295">
+                        <spot x="1532.4474" y="1511.6154" z="565.8823" h="59"/>
+                    </spawn>
+                    <!-- Gracia -->
+                    <spawn npc_id="799933" pool="1" respawn_time="295">
+                        <spot x="1528.2053" y="1513.424" z="565.89343" h="57"/>
+                    </spawn>
+                    <!-- Kaneth -->
+                    <spawn npc_id="799934" pool="1" respawn_time="295">
+                        <spot x="1527.9835" y="1509.6407" z="565.894" h="60"/>
+                    </spawn>
+                    <!-- Need Spawns -->
+                </spawn_map>
+                <!-- Poeta -->
+                <spawn_map map_id="210010000">
+                    <!-- Hesson -->
+                    <spawn npc_id="799935" pool="1" respawn_time="295">
+                        <spot x="866.24854" y="1224.7153" z="118.85947" h="64"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Eltnen -->
+                <spawn_map map_id="210020000">
+                    <!-- Luce -->
+                    <spawn npc_id="799936" pool="1" respawn_time="295">
+                        <spot x="386.78238" y="2707.2236" z="266.287" h="51"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Heiron -->
+                <spawn_map map_id="210040000">
+                    <!-- Thalone -->
+                    <spawn npc_id="799937" pool="1" respawn_time="295">
+                        <spot x="2518.931" y="385.31033" z="408.25" h="60"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Inggison -->
+                <spawn_map map_id="210050000">
+                    <!-- Celline -->
+                    <spawn npc_id="799938" pool="1" respawn_time="295">
+                        <spot x="1297.713" y="257.6204" z="595.8169" h="88"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Pandaemonium -->
+                <spawn_map map_id="120010000">
+                    <!-- <Daeva's Day Cake> -->
+                    <spawn npc_id="700585" pool="1" respawn_time="295">
+                        <spot x="1275.8658" y="1333.3451" z="204.42003" h="90"/>
+                    </spawn>
+                    <!-- Emma -->
+                    <spawn npc_id="799939" pool="1" respawn_time="295">
+                        <spot x="1277.4176" y="1329.777" z="204.42003" h="92"/>
+                    </spawn>
+                    <!-- Aivar -->
+                    <spawn npc_id="799940" pool="1" respawn_time="295">
+                        <spot x="1273.6998" y="1329.7642" z="204.41998" h="81"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Morheim -->
+                <spawn_map map_id="220020000">
+                    <!-- Nerin -->
+                    <spawn npc_id="799942" pool="1" respawn_time="295">
+                        <spot x="251.19788" y="2342.8154" z="445.12222" h="119"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Beluslan -->
+                <spawn_map map_id="220040000">
+                    <!-- Gertz -->
+                    <spawn npc_id="799943" pool="1" respawn_time="295">
+                        <spot x="365.52826" y="370.39612" z="229.1664" h="22"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Gelkmaros -->
+                <spawn_map map_id="220070000">
+                    <!-- Reoni -->
+                    <spawn npc_id="799944" pool="1" respawn_time="295">
+                        <spot x="1782.7567" y="2900.8984" z="552.508" h="102"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Solorius Festival" start="2013-12-14T00:00:00+00:00" end="2014-01-04T00:00:00+00:00" theme="christmas">
+            <quests>
+                <startable>80128;80112;80116;80113;80117;80114;80118;80115;80119;80129;80120;80124;80121;80122;80126;80123;80127</startable>
+            </quests>
+            <spawns>
+                <!-- Pandaemonium -->
+                <spawn_map map_id="120010000">
+                    <!-- Mayer -->
+                    <spawn npc_id="799778" pool="1" respawn_time="295">
+                        <spot x="1278.5869" y="1351.751" z="204.4608" h="89"/>
+                    </spawn>
+                    <!-- Blingbling -->
+                    <spawn npc_id="205487" pool="1" respawn_time="295">
+                        <spot x="1606.6971" y="1385.3406" z="193.12827" h="119"/>
+                    </spawn>
+                    <!-- Epiclone -->
+                    <spawn npc_id="217733" pool="12" respawn_time="100">
+                        <spot x="966.17975" y="1553.2114" z="222.05359" h="75"/>
+                        <spot x="972.8082" y="1541.1821" z="221.90492" h="103"/>
+                        <spot x="984.13464" y="1565.8885" z="221.89754" h="24"/>
+                        <spot x="971.9474" y="1578.2194" z="221.59808" h="50"/>
+                        <spot x="954.9844" y="1574.9327" z="221.49535" h="65"/>
+                        <spot x="932.5883" y="1578.2856" z="221.84654" h="46"/>
+                        <spot x="944.341" y="1584.6888" z="221.63184" h="119"/>
+                        <spot x="954.83856" y="1596.0103" z="221.76999" h="112"/>
+                        <spot x="959.1071" y="1584.9911" z="221.65314" h="95"/>
+                        <spot x="950.2936" y="1562.001" z="221.75958" h="100"/>
+                        <spot x="963.8887" y="1565.9484" z="221.46317" h="116"/>
+                        <spot x="974.4402" y="1560.0535" z="221.83434" h="117"/>
+                    </spawn>
+                    <!-- Rangidax -->
+                    <spawn npc_id="799784" pool="1" respawn_time="295">
+                        <spot x="1271.978" y="1352.9391" z="204.4608" h="97"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Altgard -->
+                <spawn_map map_id="220030000">
+                    <!-- Ruddy-Nosed Granker -->
+                    <spawn npc_id="217279" pool="1" respawn_time="295">
+                        <spot x="1812.1969" y="1749.2346" z="249.78552" h="7"/>
+                    </spawn>
+                    <!-- zubinerk -->
+                    <spawn npc_id="799783" pool="1" respawn_time="295">
+                        <spot x="2637.7603" y="1660.5325" z="324.74176" h="9"/>
+                        <spot x="1899.6998" y="687.4974" z="261.29092" h="40"/>
+                        <spot x="1763.7863" y="1830.8947" z="255.85503" h="88"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Sanctum -->
+                <spawn_map map_id="110010000">
+                    <!-- Sonaran -->
+                    <spawn npc_id="799763" pool="1" respawn_time="295">
+                        <spot x="1460.3693" y="1487.6533" z="573.0719" h="46"/>
+                    </spawn>
+                    <!-- Sunshine -->
+                    <spawn npc_id="205486" pool="1" respawn_time="295">
+                        <spot x="1399.9498" y="1520.4519" z="572.99426" h="60"/>
+                    </spawn>
+                    <!-- Epiclone -->
+                    <spawn npc_id="217733" pool="12" respawn_time="100">
+                        <spot x="966.17975" y="1553.2114" z="222.05359" h="75"/>
+                        <spot x="972.8082" y="1541.1821" z="221.90492" h="103"/>
+                        <spot x="984.13464" y="1565.8885" z="221.89754" h="24"/>
+                        <spot x="971.9474" y="1578.2194" z="221.59808" h="50"/>
+                        <spot x="954.9844" y="1574.9327" z="221.49535" h="65"/>
+                        <spot x="932.5883" y="1578.2856" z="221.84654" h="46"/>
+                        <spot x="944.341" y="1584.6888" z="221.63184" h="119"/>
+                        <spot x="954.83856" y="1596.0103" z="221.76999" h="112"/>
+                        <spot x="959.1071" y="1584.9911" z="221.65314" h="95"/>
+                        <spot x="950.2936" y="1562.001" z="221.75958" h="100"/>
+                        <spot x="963.8887" y="1565.9484" z="221.46317" h="116"/>
+                        <spot x="974.4402" y="1560.0535" z="221.83434" h="117"/>
+                    </spawn>
+                    <!-- Portzebnerk -->
+                    <spawn npc_id="799769" pool="1" respawn_time="295">
+                        <spot x="1876.5042" y="1758.5525" z="576.8147" h="91"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Verteron -->
+                <spawn_map map_id="210030000">
+                    <!-- Shugo Courier -->
+                    <spawn npc_id="217280" pool="1" respawn_time="295">
+                        <spot x="1656.6234" y="1594.9255" z="114.68258" h="48"/>
+                    </spawn>
+                    <!-- squeegenerk -->
+                    <spawn npc_id="799768" pool="1" respawn_time="295">
+                        <spot x="2413.677" y="788.27405" z="102.1825" h="48"/>
+                        <spot x="1303.9894" y="2204.2925" z="141.98239" h="18"/>
+                        <spot x="1628.8802" y="1477.9452" z="119.69329" h="110"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Harvest Revel" start="2013-10-26T00:00:00+00:00" end="2013-11-09T00:00:00+00:00" theme="halloween">
+            <quests>
+                <startable>80110;80086;80090;80095;80088;80092;80096;80089;80093;80097;80111;80098;80102;80106;80099;80103;80107;80100;80104;80108;80101;80105;80109</startable>
+            </quests>
+            <spawns>
+                <!-- Pandaemonium -->
+                <spawn_map map_id="120010000">
+                    <!-- Witchta -->
+                    <spawn npc_id="205485" pool="1" respawn_time="295">
+                        <spot x="1271.2024" y="1350.1512" z="204.4608" h="100"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Sanctum -->
+                <spawn_map map_id="110010000">
+                    <!-- Blair -->
+                    <spawn npc_id="205484" pool="1" respawn_time="295">
+                        <spot x="1534.1069" y="1489.5824" z="565.93616" h="35"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Daru Days" start="2013-11-23T00:00:00+00:00" end="2013-11-30T00:00:00+00:00">
+            <quests>
+                <startable>80076;80078;80079;80080;80081;80077;80082;80083;80084;80085</startable>
+            </quests>
+            <spawns>
+                <!-- Pandaemonium -->
+                <spawn_map map_id="120010000">
+                    <!-- Tayalli -->
+                    <spawn npc_id="205483" pool="1" respawn_time="295">
+                        <spot x="1267.2097" y="1344.3351" z="204.41998" h="103"/>
+                    </spawn>
+                    <!-- Icehide Daru -->
+                    <spawn npc_id="217688" pool="12" respawn_time="100">
+                        <spot x="966.17975" y="1553.2114" z="222.05359" h="75"/>
+                        <spot x="972.8082" y="1541.1821" z="221.90492" h="103"/>
+                        <spot x="984.13464" y="1565.8885" z="221.89754" h="24"/>
+                        <spot x="971.9474" y="1578.2194" z="221.59808" h="50"/>
+                        <spot x="954.9844" y="1574.9327" z="221.49535" h="65"/>
+                        <spot x="932.5883" y="1578.2856" z="221.84654" h="46"/>
+                        <spot x="944.341" y="1584.6888" z="221.63184" h="119"/>
+                        <spot x="954.83856" y="1596.0103" z="221.76999" h="112"/>
+                        <spot x="959.1071" y="1584.9911" z="221.65314" h="95"/>
+                        <spot x="950.2936" y="1562.001" z="221.75958" h="100"/>
+                        <spot x="963.8887" y="1565.9484" z="221.46317" h="116"/>
+                        <spot x="974.4402" y="1560.0535" z="221.83434" h="117"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Sanctum -->
+                <spawn_map map_id="110010000">
+                    <!-- Robitta -->
+                    <spawn npc_id="205482" pool="1" respawn_time="295">
+                        <spot x="1530.4368" y="1489.6666" z="565.9349" h="32"/>
+                    </spawn>
+                    <!-- Flamehide Daru -->
+                    <spawn npc_id="217683" pool="12" respawn_time="100">
+                        <spot x="1460.3923" y="1309.5315" z="564.2091" h="115"/>
+                        <spot x="1457.1675" y="1296.065" z="564.1405" h="83"/>
+                        <spot x="1447.1777" y="1303.2382" z="564.1405" h="53"/>
+                        <spot x="1446.7172" y="1317.4813" z="564.1405" h="30"/>
+                        <spot x="1435.6023" y="1307.77" z="564.1405" h="7"/>
+                        <spot x="1469.5254" y="1312.7368" z="564.1405" h="2"/>
+                        <spot x="1446.07" y="1292.0155" z="564.1405" h="72"/>
+                        <spot x="1434.4569" y="1292.4628" z="564.1405" h="62"/>
+                        <spot x="1427.0883" y="1279.0695" z="564.1405" h="11"/>
+                        <spot x="1437.5994" y="1275.1007" z="564.1405" h="17"/>
+                        <spot x="1450.8138" y="1267.3801" z="564.1405" h="29"/>
+                        <spot x="1458.9592" y="1278.4596" z="564.1405" h="29"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="The Halloween Living History" start="2013-10-23T00:00:00+00:00" end="2013-11-01T00:00:00+00:00" theme="HALLOWEEN">
+            <!--
+           <quests>
+                   <startable>Quest list which starts in the Halloween</startable>
+           </quests>
+            -->
+            <spawns>
+                <!-- Sanctum -->
+                <spawn_map map_id = "110010000">
+                    <spawn  npc_id="799767" pool="1" respawn_time="105">
+                        <spot x="1458.55" y="1498.69" z="573.072" h="50"/>
+                    </spawn>
+                    <spawn npc_id="205484" pool="1" respawn_time="105">
+                        <spot x="1457.49" y="1495.73" z="573.072" h="50"/>
+                    </spawn>
+                    <!-- Event: living History  -->
+                    <spawn npc_id="799681" pool="1" respawn_time="295">
+                        <spot x="1530.02" y="1528.74" z="565.924" h="90"/>
+                    </spawn>
+                    <spawn npc_id="799683" pool="1" respawn_time="295">
+                        <spot x="1532.54" y="1528.31" z="565.924" h="90"/>
+                    </spawn>
+                    <spawn npc_id="799700" pool="1" respawn_time="295">
+                        <spot x="1535.18" y="1527.84" z="565.924" h="90"/>
+                    </spawn> 
+                </spawn_map>
+                <!-- Pandaemonium -->
+                <spawn_map map_id = "120010000">
+                    <spawn npc_id="799684" pool="1" respawn_time="295">
+                        <spot x="1270.05" y="1364.77" z="204.461" h="50"/>
+                    </spawn>
+                    <spawn npc_id="799682" pool="1" respawn_time="295">
+                        <spot x="1268.31" y="1362.41" z="204.461" h="50"/>
+                    </spawn>
+                    <!-- Event : Halloween -->
+                    <spawn npc_id="799788" pool="1" respawn_time="105">
+                        <spot x="1349.76" y="1365.83" z="208.125" h="60"/>
+                    </spawn>
+                    <spawn npc_id="205485" pool="1" respawn_time="105">
+                        <spot x="1349.3" y="1360.8" z="208.125" h="60"/>
+                    </spawn>
+                    <!-- Event: living History  -->
+                    <spawn npc_id="799701" pool="1" respawn_time="295">
+                        <spot x="1267.14" y="1359.12" z="204.461" h="50"/>
+                    </spawn>
+                </spawn_map>	
+            </spawns>
+        </event>
+        <event name="Ardent heat Inventory" start="2013-07-20T00:00:00+00:00" end="2013-08-03T00:00:00+00:00">
+            <inventory_drop startlevel="1" interval="20">186000111</inventory_drop>
+        </event>
+        <event name="Ardent heat" start="2013-07-20T00:00:00+00:00" end="2013-08-03T00:00:00+00:00">
+            <spawns>
+                <!-- Pandaemonium -->
+                <spawn_map map_id="120010000">
+                    <!-- Elma -->
+                    <spawn npc_id="799792" pool="1" respawn_time="295">
+                        <spot x="1246.69" y="1356.16" z="204.42001"/>
+                    </spawn>
+                    <!-- Sihein -->
+                    <spawn npc_id="799793" pool="1" respawn_time="295">
+                        <spot x="1244.6205" y="1351.6508" z="204.42001"/>
+                    </spawn>
+                    <!-- Murea -->
+                    <spawn npc_id="799794" pool="1" respawn_time="295">
+                        <spot x="1246.9843" y="1363.0145" z="204.42001"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Sanctum -->
+                <spawn_map map_id="110010000">
+                    <!-- Zena -->
+                    <spawn npc_id="799704" pool="1" respawn_time="295">
+                        <spot x="1535.91" y="1474.44" z="565.962" h="33"/>
+                    </spawn>
+                    <!-- Cartiros -->
+                    <spawn npc_id="799705" pool="1" respawn_time="295">
+                        <spot x="1535.4037" y="1496.5366" z="565.91974" h="45"/>
+                    </spawn>
+                    <!-- Eliana -->
+                    <spawn npc_id="799706" pool="1" respawn_time="295">
+                        <spot x="1530.75" y="1496.0077" z="565.91974" h="29"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Gelkmaros -->
+                <spawn_map map_id="220070000">
+                    <!-- Darian -->
+                    <spawn npc_id="799798" pool="1" respawn_time="295">
+                        <spot x="1774" y="2899" z="549" h="110"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Beluslan -->
+                <spawn_map map_id="220040000">
+                    <!-- Odel -->
+                    <spawn npc_id="799797" pool="1" respawn_time="295">
+                        <spot x="386.28958" y="343.31763" z="229.1838" h="53"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Morheim -->
+                <spawn_map map_id="220020000">
+                    <!-- Jennis -->
+                    <spawn npc_id="799796" pool="1" respawn_time="295">
+                        <spot x="322" y="2377" z="443" h="77"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Inggison -->
+                <spawn_map map_id="210050000">
+                    <!-- Larsa -->
+                    <spawn npc_id="799710" pool="1" respawn_time="295">
+                        <spot x="1360.7979" y="358.68234" z="589.5762" h="93"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Heiron -->
+                <spawn_map map_id="210040000">
+                    <!-- Pollig -->
+                    <spawn npc_id="799709" pool="1" respawn_time="295">
+                        <spot x="2519.3638" y="384.1401" z="408.25" h="42"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Eltnen -->
+                <spawn_map map_id="210020000">
+                    <!-- Divani -->
+                    <spawn npc_id="799708" pool="1" respawn_time="295">
+                        <spot x="386" y="2706" z="266.24893" h="53"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Poeta -->
+                <spawn_map map_id="210010000">
+                    <!-- Thenon -->
+                    <spawn npc_id="799707" pool="1" respawn_time="295">
+                        <spot x="865.9374" y="1225.0037" z="118.875" h="66"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Valentine's Day" start="2014-02-14T00:00:00+00:00" end="2014-02-15T00:00:00+00:00" theme="valentine">
+        </event>
+        <event name="Shugo Merchants 02" start="2013-02-15T00:00:00+00:00" end="2013-02-18T00:00:00+00:00">
+            <spawns>
+                <!-- Oriel -->
+                <spawn_map map_id="700010000">
+                    <spawn npc_id="830522" pool="1" respawn_time="295">
+                        <spot x="2794.3887" y="1034.0599" z="191.87134" h="40"/>
+                    </spawn>
+                    <spawn npc_id="830523" pool="1" respawn_time="295">
+                        <spot x="2790.4517" y="1044.1863" z="191.75" h="97"/>
+                    </spawn>
+                    <spawn npc_id="830542" pool="1" respawn_time="295">
+                        <spot x="2797.1658" y="1038.7264" z="191.75" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830546" pool="1" respawn_time="295">
+                        <spot x="2785.617" y="1039.7161" z="191.875" h="105"/>
+                    </spawn>
+                    <spawn npc_id="830547" pool="1" respawn_time="295">
+                        <spot x="2792.1523" y="1033.3005" z="191.875"/>
+                    </spawn>
+                    <spawn npc_id="830548" pool="1" respawn_time="295">
+                        <spot x="2796.141" y="1035.6095" z="191.875" h="40"/>
+                    </spawn>
+                    <spawn npc_id="830549" pool="1" respawn_time="295">
+                        <spot x="2790.8774" y="1040.1306" z="191.75" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830550" pool="1" respawn_time="295">
+                        <spot x="2790.8828" y="1036.8214" z="191.82373" h="30"/>
+                    </spawn>
+                    <spawn npc_id="830577" pool="2" respawn_time="295">
+                        <spot x="2800.401" y="1037.401" z="194.782" h="41" static_id="3341"/>
+                        <spot x="2793.22" y="1029.154" z="194.595" h="41" static_id="3342"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Pernon -->
+                <spawn_map map_id="710010000">
+                    <spawn npc_id="830525" pool="1" respawn_time="295">
+                        <spot x="2442.4504" y="2574.6462" z="324.88577" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830526" pool="1" respawn_time="295">
+                        <spot x="2430.5317" y="2577.034" z="324.88577"/>
+                    </spawn>
+                    <spawn npc_id="830545" pool="1" respawn_time="295">
+                        <spot x="2432.7219" y="2580.4243" z="324.88577" h="97"/>
+                    </spawn>
+                    <spawn npc_id="830551" pool="1" respawn_time="295">
+                        <spot x="2439.8806" y="2571.2703" z="324.88577" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830552" pool="1" respawn_time="295">
+                        <spot x="2442.443" y="2577.0396" z="324.88577" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830553" pool="1" respawn_time="295">
+                        <spot x="2430.97" y="2574.8892" z="324.88577"/>
+                    </spawn>
+                    <spawn npc_id="830554" pool="1" respawn_time="295">
+                        <spot x="2439.8616" y="2580.6633" z="324.88577" h="80"/>
+                    </spawn>
+                    <spawn npc_id="830555" pool="1" respawn_time="295">
+                        <spot x="2436.1877" y="2580.3025" z="324.88577" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830576" pool="2" respawn_time="295">
+                        <spot x="2439.187" y="2567.405" z="326.226" h="47" static_id="6002"/>
+                        <spot x="2444.295" y="2565.976" z="326.226" h="47" static_id="6005"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Shugo Merchants 03" start="2013-03-15T00:00:00+00:00" end="2013-03-18T00:00:00+00:00">
+            <spawns>
+                <!-- Oriel -->
+                <spawn_map map_id="700010000">
+                    <spawn npc_id="830522" pool="1" respawn_time="295">
+                        <spot x="201.41342" y="1950.1682" z="120.75"/>
+                    </spawn>
+                    <spawn npc_id="830523" pool="1" respawn_time="295">
+                        <spot x="204.94641" y="1945.0814" z="120.75" h="27"/>
+                    </spawn>
+                    <spawn npc_id="830524" pool="1" respawn_time="295">
+                        <spot x="212.70401" y="1953.2017" z="120.75" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830546" pool="1" respawn_time="295">
+                        <spot x="201.64679" y="1954.7858" z="120.75"/>
+                    </spawn>
+                    <spawn npc_id="830547" pool="1" respawn_time="295">
+                        <spot x="211.2059" y="1946.3535" z="120.75" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830548" pool="1" respawn_time="295">
+                        <spot x="206.15237" y="1950.4379" z="120.75" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830549" pool="1" respawn_time="295">
+                        <spot x="208.50876" y="1950.2059" z="120.75" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830550" pool="1" respawn_time="295">
+                        <spot x="206.63913" y="1943.9749" z="120.75" h="30"/>
+                    </spawn>
+                    <spawn npc_id="830577" pool="2" respawn_time="295">
+                        <spot x="198.489" y="1947.526" z="123.597" static_id="4015"/>
+                        <spot x="199.680" y="1958.103" z="123.597" static_id="4016"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Pernon -->
+                <spawn_map map_id="710010000">
+                    <spawn npc_id="830525" pool="1" respawn_time="295">
+                        <spot x="467.15878" y="519.19836" z="196.625" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830526" pool="1" respawn_time="295">
+                        <spot x="459.16003" y="512.1323" z="196.625" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830545" pool="1" respawn_time="295">
+                        <spot x="459.34894" y="519.3125" z="196.625" h="105"/>
+                    </spawn>
+                    <spawn npc_id="830551" pool="1" respawn_time="295">
+                        <spot x="469.62094" y="513.89905" z="196.61046" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830552" pool="1" respawn_time="295">
+                        <spot x="464.2999" y="519.7228" z="196.625" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830553" pool="1" respawn_time="295">
+                        <spot x="460.5868" y="508.96033" z="196.625" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830554" pool="1" respawn_time="295">
+                        <spot x="457.39825" y="515.0263" z="196.625"/>
+                    </spawn>
+                    <spawn npc_id="830555" pool="1" respawn_time="295">
+                        <spot x="461.5289" y="519.8969" z="196.625" h="110"/>
+                    </spawn>
+                    <spawn npc_id="830576" pool="2" respawn_time="295">
+                        <spot x="468.133" y="522.993" z="199.438" h="73" static_id="6006"/>
+                        <spot x="473.570" y="514.585" z="199.438" h="73" static_id="6012"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Shugo Merchants 05" start="2013-05-15T00:00:00+00:00" end="2013-05-18T00:00:00+00:00">
+            <spawns>
+                <!-- Oriel -->
+                <spawn_map map_id="700010000">
+                    <spawn npc_id="830522" pool="1" respawn_time="295">
+                        <spot x="877.7764" y="2718.39" z="99.0"/>
+                    </spawn>
+                    <spawn npc_id="830523" pool="1" respawn_time="295">
+                        <spot x="884.1354" y="2721.624" z="99.0" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830524" pool="1" respawn_time="295">
+                        <spot x="881.0157" y="2726.5942" z="99.0" h="105"/>
+                    </spawn>
+                    <spawn npc_id="830546" pool="1" respawn_time="295">
+                        <spot x="882.9466" y="2727.798" z="99.0" h="105"/>
+                    </spawn>
+                    <spawn npc_id="830547" pool="1" respawn_time="295">
+                        <spot x="886.2417" y="2721.1995" z="99.0" h="43"/>
+                    </spawn>
+                    <spawn npc_id="830548" pool="1" respawn_time="295">
+                        <spot x="888.5605" y="2725.8628" z="99.0" h="73"/>
+                    </spawn>
+                    <spawn npc_id="830549" pool="1" respawn_time="295">
+                        <spot x="887.48096" y="2728.1755" z="99.0" h="73"/>
+                    </spawn>
+                    <spawn npc_id="830550" pool="1" respawn_time="295">
+                        <spot x="892.0142" y="2721.5737" z="99.0" h="70"/>
+                    </spawn>
+                    <spawn npc_id="830577" pool="2" respawn_time="295">
+                        <spot x="878.913" y="2728.258" z="101.454" static_id="4013"/>
+                        <spot x="888.642" y="2730.526" z="101.454" static_id="4014"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Pernon -->
+                <spawn_map map_id="710010000">
+                    <spawn npc_id="830525" pool="1" respawn_time="295">
+                        <spot x="446.91968" y="969.9951" z="164.91383" h="70"/>
+                    </spawn>
+                    <spawn npc_id="830526" pool="1" respawn_time="295">
+                        <spot x="440.91837" y="962.05206" z="164.91383" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830527" pool="1" respawn_time="295">
+                        <spot x="447.04156" y="965.0928" z="164.91383" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830551" pool="1" respawn_time="295">
+                        <spot x="441.23596" y="974.101" z="164.91383" h="77"/>
+                    </spawn>
+                    <spawn npc_id="830552" pool="1" respawn_time="295">
+                        <spot x="444.59174" y="972.70404" z="164.91383" h="77"/>
+                    </spawn>
+                    <spawn npc_id="830553" pool="1" respawn_time="295">
+                        <spot x="436.2703" y="965.3779" z="164.91383" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830554" pool="1" respawn_time="295">
+                        <spot x="438.86578" y="963.8245" z="164.91383" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830555" pool="1" respawn_time="295">
+                        <spot x="445.2912" y="963.10693" z="164.91383" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830576" pool="2" respawn_time="295">
+                        <spot x="432.522" y="964.353" z="167.551" h="60" static_id="6000"/>
+                        <spot x="441.917" y="957.916" z="167.551" h="60" static_id="6008"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Shugo Merchants 06" start="2013-06-15T00:00:00+00:00" end="2013-06-18T00:00:00+00:00">
+            <spawns>
+                <!-- Oriel -->
+                <spawn_map map_id="700010000">
+                    <spawn npc_id="830522" pool="1" respawn_time="295">
+                        <spot x="1325.9811" y="490.44492" z="110.125" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830523" pool="1" respawn_time="295">
+                        <spot x="1321.0048" y="490.34433" z="110.125" h="30"/>
+                    </spawn>
+                    <spawn npc_id="830540" pool="1" respawn_time="295">
+                        <spot x="1327.7725" y="492.3526" z="110.125" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830546" pool="1" respawn_time="295">
+                        <spot x="1323.1317" y="490.09323" z="110.125" h="30"/>
+                    </spawn>
+                    <spawn npc_id="830547" pool="1" respawn_time="295">
+                        <spot x="1329.3021" y="497.039" z="110.125" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830548" pool="1" respawn_time="295">
+                        <spot x="1318.7664" y="492.55548" z="110.125" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830549" pool="1" respawn_time="295">
+                        <spot x="1317.7128" y="494.89914" z="110.125" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830550" pool="1" respawn_time="295">
+                        <spot x="1324.1552" y="501.73642" z="110.125" h="75"/>
+                    </spawn>
+                    <spawn npc_id="830577" pool="2" respawn_time="295">
+                        <spot x="1315.136" y="491.887" z="111.756" h="75" static_id="4021"/>
+                        <spot x="1323.411" y="486.938" z="111.756" h="75" static_id="4022"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Pernon -->
+                <spawn_map map_id="710010000">
+                    <spawn npc_id="830525" pool="1" respawn_time="295">
+                        <spot x="2720.7537" y="301.8679" z="76.375"/>
+                    </spawn>
+                    <spawn npc_id="830526" pool="1" respawn_time="295">
+                        <spot x="2731.7842" y="299.61792" z="76.375" h="47"/>
+                    </spawn>
+                    <spawn npc_id="830527" pool="1" respawn_time="295">
+                        <spot x="2732.2163" y="302.46243" z="76.375" h="47"/>
+                    </spawn>
+                    <spawn npc_id="830551" pool="1" respawn_time="295">
+                        <spot x="2720.7146" y="299.21375" z="76.375"/>
+                    </spawn>
+                    <spawn npc_id="830552" pool="1" respawn_time="295">
+                        <spot x="2722.2717" y="305.69427" z="76.375" h="117"/>
+                    </spawn>
+                    <spawn npc_id="830553" pool="1" respawn_time="295">
+                        <spot x="2725.77" y="308.94522" z="76.375" h="100"/>
+                    </spawn>
+                    <spawn npc_id="830554" pool="1" respawn_time="295">
+                        <spot x="2724.4783" y="294.85464" z="76.375" h="20"/>
+                    </spawn>
+                    <spawn npc_id="830555" pool="1" respawn_time="295">
+                        <spot x="2731.3665" y="305.06088" z="76.375" h="47"/>
+                    </spawn>
+                    <spawn npc_id="830576" pool="2" respawn_time="295">
+                        <spot x="2718.579" y="291.338" z="78.902" h="103" static_id="6004"/>
+                        <spot x="2716.696" y="295.975" z="78.902" h="103" static_id="6011"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Shugo Merchants 08" start="2013-08-15T00:00:00+00:00" end="2013-08-18T00:00:00+00:00">
+            <spawns>
+                <!-- Oriel -->
+                <spawn_map map_id="700010000">
+                    <spawn npc_id="830522" pool="1" respawn_time="295">
+                        <spot x="365.61755" y="1551.8577" z="91.25" h="30"/>
+                    </spawn>
+                    <spawn npc_id="830523" pool="1" respawn_time="295">
+                        <spot x="373.5292" y="1554.4397" z="91.25" h="53"/>
+                    </spawn>
+                    <spawn npc_id="830540" pool="1" respawn_time="295">
+                        <spot x="370.10114" y="1552.0558" z="91.25" h="30"/>
+                    </spawn>
+                    <spawn npc_id="830546" pool="1" respawn_time="295">
+                        <spot x="367.86484" y="1551.2179" z="91.25" h="30"/>
+                    </spawn>
+                    <spawn npc_id="830547" pool="1" respawn_time="295">
+                        <spot x="371.33447" y="1561.4894" z="91.25" h="75"/>
+                    </spawn>
+                    <spawn npc_id="830548" pool="1" respawn_time="295">
+                        <spot x="364.06607" y="1561.0356" z="91.25" h="100"/>
+                    </spawn>
+                    <spawn npc_id="830549" pool="1" respawn_time="295">
+                        <spot x="373.93405" y="1556.3989" z="91.25" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830550" pool="1" respawn_time="295">
+                        <spot x="367.33594" y="1562.2374" z="91.25" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830577" pool="2" respawn_time="295">
+                        <spot x="372.752" y="1549.078" z="94.160" h="60" static_id="4017"/>
+                        <spot x="364.754" y="1547.712" z="94.160" h="60" static_id="4018"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Pernon -->
+                <spawn_map map_id="710010000">
+                    <spawn npc_id="830525" pool="1" respawn_time="295">
+                        <spot x="1625.6097" y="316.22113" z="78.5" h="117"/>
+                    </spawn>
+                    <spawn npc_id="830526" pool="1" respawn_time="295">
+                        <spot x="1637.2391" y="311.97986" z="78.5" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830543" pool="1" respawn_time="295">
+                        <spot x="1633.1631" y="316.36618" z="78.5" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830551" pool="1" respawn_time="295">
+                        <spot x="1625.3611" y="311.0678" z="78.5" h="7"/>
+                    </spawn>
+                    <spawn npc_id="830552" pool="1" respawn_time="295">
+                        <spot x="1636.9739" y="317.31433" z="78.5" h="77"/>
+                    </spawn>
+                    <spawn npc_id="830553" pool="1" respawn_time="295">
+                        <spot x="1638.341" y="314.85782" z="78.5" h="63"/>
+                    </spawn>
+                    <spawn npc_id="830554" pool="1" respawn_time="295">
+                        <spot x="1631.0803" y="315.83667" z="78.5" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830555" pool="1" respawn_time="295">
+                        <spot x="1628.8411" y="308.43573" z="78.5" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830576" pool="2" respawn_time="295">
+                        <spot x="1639.348" y="309.796" z="81.450" static_id="6007"/>
+                        <spot x="1638.141" y="319.904" z="81.450" static_id="6014"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Shugo Merchants 09" start="2013-09-15T00:00:00+00:00" end="2013-09-18T00:00:00+00:00">
+            <spawns>
+                <!-- Oriel -->
+                <spawn_map map_id="700010000">
+                    <spawn npc_id="830522" pool="1" respawn_time="295">
+                        <spot x="2420.191" y="2584.9976" z="182.5"/>
+                    </spawn>
+                    <spawn npc_id="830523" pool="1" respawn_time="295">
+                        <spot x="2414.8662" y="2590.8813" z="182.5" h="105"/>
+                    </spawn>
+                    <spawn npc_id="830541" pool="1" respawn_time="295">
+                        <spot x="2414.3237" y="2580.8142" z="182.5" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830546" pool="1" respawn_time="295">
+                        <spot x="2417.8264" y="2593.8464" z="182.5" h="105"/>
+                    </spawn>
+                    <spawn npc_id="830547" pool="1" respawn_time="295">
+                        <spot x="2411.5913" y="2583.057" z="182.5" h="10"/>
+                    </spawn>
+                    <spawn npc_id="830548" pool="1" respawn_time="295">
+                        <spot x="2410.8462" y="2585.5894" z="182.5"/>
+                    </spawn>
+                    <spawn npc_id="830549" pool="1" respawn_time="295">
+                        <spot x="2420.5168" y="2578.6692" z="182.5" h="30"/>
+                    </spawn>
+                    <spawn npc_id="830550" pool="1" respawn_time="295">
+                        <spot x="2411.2996" y="2588.4355" z="182.5" h="117"/>
+                    </spawn>
+                    <spawn npc_id="830577" pool="2" respawn_time="295">
+                        <spot x="2408.629" y="2579.878" z="185.390" h="6" static_id="4019"/>
+                        <spot x="2407.879" y="2591.244" z="185.390" h="6" static_id="4020"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Pernon -->
+                <spawn_map map_id="710010000">
+                    <spawn npc_id="830525" pool="1" respawn_time="295">
+                        <spot x="245.9129" y="2281.1824" z="197.25" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830526" pool="1" respawn_time="295">
+                        <spot x="256.92242" y="2273.0771" z="197.25" h="53"/>
+                    </spawn>
+                    <spawn npc_id="830544" pool="1" respawn_time="295">
+                        <spot x="250.35449" y="2271.111" z="197.25" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830551" pool="1" respawn_time="295">
+                        <spot x="249.22778" y="2276.256" z="197.25"/>
+                    </spawn>
+                    <spawn npc_id="830552" pool="1" respawn_time="295">
+                        <spot x="249.38223" y="2278.9553" z="197.25"/>
+                    </spawn>
+                    <spawn npc_id="830553" pool="1" respawn_time="295">
+                        <spot x="257.99213" y="2276.5813" z="197.25" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830554" pool="1" respawn_time="295">
+                        <spot x="253.54004" y="2269.6147" z="197.25" h="40"/>
+                    </spawn>
+                    <spawn npc_id="830555" pool="1" respawn_time="295">
+                        <spot x="249.29971" y="2273.5308" z="197.25"/>
+                    </spawn>
+                    <spawn npc_id="830576" pool="2" respawn_time="295">
+                        <spot x="242.274" y="2275.188" z="200.502" h="50" static_id="5999"/>
+                        <spot x="246.398" y="2273.350" z="200.502" h="50" static_id="6009"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Shugo Merchants 11" start="2013-11-15T00:00:00+00:00" end="2013-11-18T00:00:00+00:00">
+            <spawns>
+                <!-- Oriel -->
+                <spawn_map map_id="700010000">
+                    <spawn npc_id="830522" pool="1" respawn_time="295">
+                        <spot x="2018.549" y="1653.8259" z="79.375" h="117"/>
+                    </spawn>
+                    <spawn npc_id="830523" pool="1" respawn_time="295">
+                        <spot x="2028.2836" y="1646.5219" z="79.375" h="42"/>
+                    </spawn>
+                    <spawn npc_id="830541" pool="1" respawn_time="295">
+                        <spot x="2022.8827" y="1651.0623" z="79.375" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830546" pool="1" respawn_time="295">
+                        <spot x="2021.9258" y="1656.7972" z="79.375" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830547" pool="1" respawn_time="295">
+                        <spot x="2018.2594" y="1649.8589" z="79.375"/>
+                    </spawn>
+                    <spawn npc_id="830548" pool="1" respawn_time="295">
+                        <spot x="2024.0212" y="1645.6947" z="79.375" h="37"/>
+                    </spawn>
+                    <spawn npc_id="830549" pool="1" respawn_time="295">
+                        <spot x="2029.1964" y="1650.6656" z="79.375" h="43"/>
+                    </spawn>
+                    <spawn npc_id="830550" pool="1" respawn_time="295">
+                        <spot x="2024.9482" y="1655.9681" z="79.375" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830577" pool="2" respawn_time="295">
+                        <spot x="2022.049" y="1661.642" z="82.107" h="15" static_id="4178"/>
+                        <spot x="2013.821" y="1653.028" z="82.107" h="15" static_id="4179"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Pernon -->
+                <spawn_map map_id="710010000">
+                    <spawn npc_id="830525" pool="1" respawn_time="295">
+                        <spot x="716.1091" y="2082.9707" z="164.35309" h="47"/>
+                    </spawn>
+                    <spawn npc_id="830526" pool="1" respawn_time="295">
+                        <spot x="709.57184" y="2092.4944" z="164.35309" h="83"/>
+                    </spawn>
+                    <spawn npc_id="830544" pool="1" respawn_time="295">
+                        <spot x="708.84125" y="2084.6694" z="164.35309" h="20"/>
+                    </spawn>
+                    <spawn npc_id="830551" pool="1" respawn_time="295">
+                        <spot x="715.4113" y="2081.1067" z="164.35309" h="47"/>
+                    </spawn>
+                    <spawn npc_id="830552" pool="1" respawn_time="295">
+                        <spot x="716.94385" y="2084.8171" z="164.35309" h="47"/>
+                    </spawn>
+                    <spawn npc_id="830553" pool="1" respawn_time="295">
+                        <spot x="713.82983" y="2089.7979" z="164.35309" h="73"/>
+                    </spawn>
+                    <spawn npc_id="830554" pool="1" respawn_time="295">
+                        <spot x="706.6411" y="2093.18" z="164.35309" h="90"/>
+                    </spawn>
+                    <spawn npc_id="830555" pool="1" respawn_time="295">
+                        <spot x="706.65045" y="2085.4875" z="164.35309" h="20"/>
+                    </spawn>
+                    <spawn npc_id="830576" pool="2" respawn_time="295">
+                        <spot x="701.795" y="2096.719" z="166.539" h="60" static_id="6010"/>
+                        <spot x="710.213" y="2081.275" z="166.539" h="60" static_id="6013"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Shugo Merchants 12" start="2013-12-15T00:00:00+00:00" end="2013-12-18T00:00:00+00:00">
+            <spawns>
+                <!-- Oriel -->
+                <spawn_map map_id="700010000">
+                    <spawn npc_id="830522" pool="1" respawn_time="295">
+                        <spot x="2106.9106" y="378.7174" z="84.625" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830523" pool="1" respawn_time="295">
+                        <spot x="2110.0635" y="382.37592" z="84.625" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830542" pool="1" respawn_time="295">
+                        <spot x="2101.6597" y="377.654" z="84.625" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830546" pool="1" respawn_time="295">
+                        <spot x="2104.4724" y="389.36343" z="84.625" h="97"/>
+                    </spawn>
+                    <spawn npc_id="830547" pool="1" respawn_time="295">
+                        <spot x="2099.8372" y="379.0609" z="84.625" h="15"/>
+                    </spawn>
+                    <spawn npc_id="830548" pool="1" respawn_time="295">
+                        <spot x="2108.4863" y="380.51538" z="84.625" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830549" pool="1" respawn_time="295">
+                        <spot x="2101.5977" y="385.82773" z="84.625" h="105"/>
+                    </spawn>
+                    <spawn npc_id="830550" pool="1" respawn_time="295">
+                        <spot x="2100.12" y="383.10455" z="84.625" h="105"/>
+                    </spawn>
+                    <spawn npc_id="830577" pool="2" respawn_time="295">
+                        <spot x="2107.149" y="374.434" z="88.022" h="116" static_id="4023"/>
+                        <spot x="2114.192" y="381.605" z="88.022" h="116" static_id="4024"/>
+                    </spawn>
+                </spawn_map>
+                <!-- Pernon -->
+                <spawn_map map_id="710010000">
+                    <spawn npc_id="830525" pool="1" respawn_time="295">
+                        <spot x="2202.5586" y="2027.8947" z="240.03209"/>
+                    </spawn>
+                    <spawn npc_id="830526" pool="1" respawn_time="295">
+                        <spot x="2209.3337" y="2025.1761" z="239.31003" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830545" pool="1" respawn_time="295">
+                        <spot x="2209.5745" y="2034.3219" z="239.48495" h="77"/>
+                    </spawn>
+                    <spawn npc_id="830551" pool="1" respawn_time="295">
+                        <spot x="2202.0652" y="2030.7322" z="240.03209"/>
+                    </spawn>
+                    <spawn npc_id="830552" pool="1" respawn_time="295">
+                        <spot x="2209.9468" y="2031.3322" z="238.625" h="60"/>
+                    </spawn>
+                    <spawn npc_id="830553" pool="1" respawn_time="295">
+                        <spot x="2207.648" y="2023.7139" z="239.17694" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830554" pool="1" respawn_time="295">
+                        <spot x="2210.6714" y="2027.5078" z="239.48495" h="45"/>
+                    </spawn>
+                    <spawn npc_id="830555" pool="1" respawn_time="295">
+                        <spot x="2204.7734" y="2034.4832" z="239.69302" h="97"/>
+                    </spawn>
+                    <spawn npc_id="830576" pool="2" respawn_time="295">
+                        <spot x="2198.745" y="2030.055" z="241.574" h="103" static_id="6001"/>
+                        <spot x="2209.124" y="2020.979" z="241.574" h="103" static_id="6003"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+    </events>
+</events_config>

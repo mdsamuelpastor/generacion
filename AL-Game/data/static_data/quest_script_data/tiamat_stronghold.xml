@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts>
+    <!--
+            [BEGIN] SUMMARY
+                                        10070 [TODO] Kaisinel's Command
+                    10071 [TODO] On the Trail of Israphel
+                    10072 [TODO] The Truth Revealed
+                    10073 [TODO] Shattered Alliance
+                    20070 [TODO] Marchutan's Will
+                    20071 [TODO] The Hunt for Israphel
+                                        20072 [TODO] Israphel's True Face
+                    20073 [TODO] Alliances Undone
+                    30700 [XML] [Group] Race for the Relics
+                    30701 [XML] [Alliance] The Lord of Illusion
+                    30702 [XML] [Group] The Dredgion Fleet
+                    30703 [XML] [Group] The Last of the Dredgions
+                    30704 [XML] Black Market Drazma
+                    30705 [XML] [Group] Fixing the Future
+                    30706 [XML] [Group] The Prophet's Book
+                    30707 [XML] [Group] Olive Branches
+                    30708 [XML] [Group] Surama the Betrayer
+                    30709 [XML] [Group] Soul Searching
+                    30710 [XML] [Group] The Great Release
+                    30711 [XML] The Dark Dagger
+                    30712 [XML] [Group] Harnessing the Hatred
+                    30713 [XML] Just a Test
+                    30714 [XML] The Tahabata Legion's Future Plans
+                    30715 [XML] [Group] Anuhart-less
+                    30716 [XML] [Group] Breaking Through
+                    30717 [XML] The Finer Things
+                    30718 [XML] [Group] Alpha Strike
+                    30719 [XML] Treachery's Reward
+                    30720 [XML] [Alliance] The Dragon Song
+                    30750 [XML] [Group] Attack on Tiamat Stronghold
+                    30751 [XML] [Alliance] Death to the Dragon Lord!
+                    30752 [XML] [Group] Dredgion Control Infiltration
+                    30753 [XML] [Group] The Last Dredgion
+                    30754 [XML] Illegal Distribution of Drazma Fragment
+                    30755 [XML] [Group] Stop the Professor
+                    30758 [XML] [Group] Surama the Bitter
+                    30759 [XML] [Group] Counting Statues
+                    30760 [XML] [Group] Petrified Hero of the Asmodians
+                    30761 [XML] Apsu's Grudge
+                    30762 [XML] [Group] Shulack Technology
+                    30763 [XML] Extract Apsu's Grudge
+                    30764 [XML] Poeta Orders?
+                    30765 [XML] [Group] Dark Poeta Prevention
+                    30766 [XML] [Group] Run the Savage Gauntlet
+                    30767 [XML] An Asmodian Hero
+                    30768 [XML] [Group] Leading the Charge
+                    30769 [XML] To Steal from Tiamat
+            [END] SUMMARY
+    -->
+    <!-- COLLECTING QUESTS -->
+    <item_collecting id="30700" start_npc_ids="799029"/>
+    <item_collecting id="30701" start_npc_ids="799029"/>
+    <item_collecting id="30702" start_npc_ids="799029"/>
+    <item_collecting id="30706" start_npc_ids="799029"/>
+    <item_collecting id="30709" start_npc_ids="799029"/>
+    <item_collecting id="30711" start_npc_ids="799029"/>
+    <item_collecting id="30712" start_npc_ids="799029"/>
+    <item_collecting id="30713" start_npc_ids="799029"/>
+    <item_collecting id="30717" start_npc_ids="799029"/>
+    <item_collecting id="30718" start_npc_ids="799029"/>
+    <item_collecting id="30719" start_npc_ids="799029"/>
+    <item_collecting id="30750" start_npc_ids="799029"/>
+    <item_collecting id="30754" start_npc_ids="799029"/>
+    <item_collecting id="30755" start_npc_ids="799029"/>
+    <item_collecting id="30756" start_npc_ids="799029"/>
+    <item_collecting id="30757" start_npc_ids="799029"/>
+    <item_collecting id="30758" start_npc_ids="799029"/>
+    <item_collecting id="30759" start_npc_ids="799029"/>
+    <item_collecting id="30760" start_npc_ids="799029"/>
+    <item_collecting id="30761" start_npc_ids="799029"/>
+    <item_collecting id="30762" start_npc_ids="799029"/>
+    <item_collecting id="30763" start_npc_ids="799029"/>
+    <item_collecting id="30764" start_npc_ids="799029"/>
+    <item_collecting id="30767" start_npc_ids="799029"/>
+    <item_collecting id="30768" start_npc_ids="799029"/>
+    <item_collecting id="30769" start_npc_ids="799029"/>
+	
+    <!-- REPORTING QUESTS -->
+    <report_to id="30720" start_npc_ids="0" item_id="182213272" end_npc_ids="205886"/>
+	
+    <!-- HUNTING QUESTS -->
+    <monster_hunt id="30703" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30704" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30705" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30707" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30708" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30710" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30714" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30715" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30716" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30751" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30752" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30753" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30765" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="30766" start_npc_ids="205958">
+        <monster var="0" npc_ids="701413" end_var="10"/>
+    </monster_hunt>
+</quest_scripts>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawns>
+    <spawn_map map_id="300490000">
+		<!-- Kahrun 1 (NPC Hero lvl:60) -->
+		<spawn npc_id="800431">
+			<spot x="502.125" y="510.26" z="417.404" h="116"/>
+		</spawn>
+		<!-- Kahrun 2 (NPC Hero lvl:60) -->
+		<spawn npc_id="800343">
+			<spot x="480.937" y="514.571" z="417.404" h="0"/>
+		</spawn>
+		<!-- IDTiamat_Solo_FOBJ_Teleport_T2 (spot Normal lvl:3) -->
+		<spawn npc_id="730691">
+			<spot x="503.219757" y="516.651733" z="243.482681" h="0"/>
+		</spawn>
+		<!-- IDTiamat_FOBJ_Surukana_After (spot Normal lvl:3) -->
+		<spawn npc_id="730700">
+			<spot x="439.996155" y="514.148071" z="424.444977" h="0"/>
+		</spawn>
+		<!-- God Kaisinel Elyos (NPC Legendary lvl:60) -->
+		<spawn npc_id="219564">
+			<spot x="504.438" y="514.822" z="417.404" h="116"/>
+		</spawn>
+    </spawn_map>
+</spawns>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone mapid="300900000" name="STR_ZONE_NAME_IDRUNEWEAPON_Q_300900000" area_type="POLYGON" zone_type="SUB" priority="16">
+		<points bottom="87.53033" top="187.530334">
+			<point x="82.3353" y="73.5290" />
+			<point x="172.5628" y="76.7641" />
+			<point x="174.1453" y="207.2670" />
+			<point x="79.6766" y="203.3592" />
+		</points>
+	</zone>
+	<zone mapid="300900000" name="IDRUNEWEAPON_Q_ITEMUSEAREA_ALL_LOSE" area_type="POLYGON" zone_type="ITEM_USE">
+		<points bottom="76.9664459" top="176.966446">
+			<point x="71.6369" y="41.0978" />
+			<point x="191.1360" y="44.2508" />
+			<point x="190.5054" y="215.4593" />
+			<point x="67.5380" y="211.0450" />
+		</points>
+	</zone>
+	<zone mapid="300900000" name="IDRUNEWEAPON_Q_ITEMUSEAREA_ALL" area_type="POLYGON" zone_type="ITEM_USE">
+		<points bottom="76.9664459" top="176.966446">
+			<point x="70.8419" y="41.5474" />
+			<point x="190.3410" y="44.7005" />
+			<point x="189.7104" y="215.9089" />
+			<point x="66.7430" y="211.4947" />
+		</points>
+	</zone>
+</zones>

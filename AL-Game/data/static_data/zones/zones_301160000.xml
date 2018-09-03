@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone mapid="301160000" name="STR_ZONE_NAME_IDASTERIA_IU_PARTY_SZ_A_301160000" area_type="POLYGON" zone_type="SUB" priority="16">
+		<points bottom="168.974213" top="268.9742">
+			<point x="454.9868" y="566.6676" />
+			<point x="500.5176" y="716.2975" />
+			<point x="536.3276" y="719.8737" />
+			<point x="708.5677" y="573.3024" />
+			<point x="522.7584" y="402.3648" />
+			<point x="468.4401" y="446.4018" />
+		</points>
+	</zone>
+	<zone mapid="301160000" name="IDASTERIA_IU_ITEM_USE_AREA" area_type="POLYGON" zone_type="ITEM_USE">
+		<points bottom="115.6833" top="265.6833">
+			<point x="455.2696" y="712.2947" />
+			<point x="448.5992" y="434.2293" />
+			<point x="668.8654" y="434.8226" />
+			<point x="665.0519" y="698.1558" />
+		</points>
+	</zone>
+</zones>

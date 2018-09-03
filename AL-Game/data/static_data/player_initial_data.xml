@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player_initial_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="player_initial_data.xsd">
+
+	<asmodian_spawn_location map_id="220010000" heading="32" x="571.0388" y="2787.3420" z="299.8750"/>
+	<elyos_spawn_location map_id="210010000" heading="32" x="1212.9423" y="1044.8516" z="140.75568"/>
+	
+	<player_data class="WARRIOR">
+		<items>
+			<item id="182400001" count="10000"/>
+			<item id="110600669" count="1"/>
+			<item id="113600636" count="1"/>
+			<item id="111600642" count="1"/>
+			<item id="112600618" count="1"/>
+			<item id="114600627" count="1"/>
+			<item id="100000530" count="1"/>
+			<item id="115000679" count="1"/>
+			<item id="190020087" count="1"/> <!-- Gruener Diabol-Ei -->	
+			<item id="162002008" count="100"/> <!-- [Event] Geheimnisvolle Lotustablette -->
+			<item id="164002011" count="100"/> <!-- [Event] Maechtigere Schriftrolle des Rennens -->
+		</items>
+	</player_data>
+	<player_data class="MAGE">
+		<items>
+			<item id="182400001" count="10000"/>
+			<item id="111100663" count="1"/>
+			<item id="113100672" count="1"/>
+			<item id="114100690" count="1"/>
+			<item id="112100622" count="1"/>
+			<item id="110100749" count="1"/>
+			<item id="100500402" count="1"/>
+			<item id="190020087" count="1"/> <!-- Gruener Diabol-Ei -->	
+			<item id="162002008" count="100"/> <!-- [Event] Geheimnisvolle Lotustablette -->
+			<item id="164002011" count="100"/> <!-- [Event] Maechtigere Schriftrolle des Rennens -->
+		</items>
+	</player_data>
+	<player_data class="PRIEST">
+		<items>
+			<item id="182400001" count="10000"/>
+			<item id="111500652" count="1"/>
+			<item id="110500683" count="1"/>
+			<item id="113500661" count="1"/>
+			<item id="112500610" count="1"/>
+			<item id="114500669" count="1"/>
+			<item id="100100406" count="1"/>
+			<item id="115000679" count="1"/>
+			<item id="190020087" count="1"/> <!-- Gruener Diabol-Ei -->	
+			<item id="162002008" count="100"/> <!-- [Event] Geheimnisvolle Lotustablette -->
+			<item id="164002011" count="100"/> <!-- [Event] Maechtigere Schriftrolle des Rennens -->
+		</items>
+	</player_data>
+	<player_data class="SCOUT">
+		<items>
+			<item id="182400001" count="10000"/>
+			<item id="111300665" count="1"/>
+			<item id="113300688" count="1"/>
+			<item id="114300703" count="1"/>
+			<item id="112300622" count="1"/>
+			<item id="110300706" count="1"/>
+			<item id="100000530" count="1"/>
+			<item id="190020087" count="1"/> <!-- Gruener Diabol-Ei -->	
+			<item id="162002008" count="100"/> <!-- [Event] Geheimnisvolle Lotustablette -->
+			<item id="164002011" count="100"/> <!-- [Event] Maechtigere Schriftrolle des Rennens -->
+		</items>
+	</player_data>
+</player_initial_data>
