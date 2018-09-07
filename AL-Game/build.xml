@@ -95,13 +95,13 @@
 
         <copy todir="${build.dist.gs}">
             <fileset dir="dist">
-                <include name="*.*"/>
+                <include name="**/*"/>
             </fileset>
         </copy>
     	
     	<copy todir="${build.dist.gs}/config">
 			<fileset dir="config">
-				<include name="*.*"/>
+				<include name="**/*"/>
 			</fileset>
 		</copy>
     		
@@ -123,6 +123,6 @@
     	    </fileset>
     	</copy>
 
-		<zip destfile="${build}/NG-Game.zip" basedir="${build.dist}" />
+		<zip destfile="${build}/AI-Game.zip" basedir="${build.dist}" />
 	</target>
 </project>
