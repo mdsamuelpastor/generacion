@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="data/**" kind="src" output="target/classes" path="src"/>
+	<classpathentry kind="src" path="data/scripts/system/database"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AL-Commons"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/al-commons-1.3.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/bonecp-0.7.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/hamcrest-all-1.1.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/javac-1.6.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/javolution-5.5.1.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/lambdaj-2.3.3.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/logback-classic-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/logback-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/mysql-connector-java-5.1.18.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/quartz-2.1.6.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/trove4j-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/AL-Game/lib/xercesImpl-2.8.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

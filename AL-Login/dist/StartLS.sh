@@ -1,0 +1,1 @@
+screen -A -m -d -S aion_loginserver_ID1 ./login.sh

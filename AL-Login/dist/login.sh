@@ -1,0 +1,1 @@
+java -Xms8m -Xmx32m -Xbootclasspath/p:./libs/jsr166.jar -cp ./libs/*:NG-Login.jar com.aionemu.loginserver.LoginServer
